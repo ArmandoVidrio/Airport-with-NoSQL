@@ -1,0 +1,1000 @@
+﻿"aerolinea","origen","destino","dia","mes","anio","genero","razon","estancia","transporte","conexion","tiempoEspera"
+"Interjet","LAX","JFK",29,8,2023,"Mujer","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",61
+"Interjet","LAX","GDL",4,4,2023,"Mujer","Vuelta a casa","Hotel","Transporte público","No es de conexion",154
+"VivaAerobus","SJC","PDX",21,2,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",102
+"Volaris","SJC","JFK",28,6,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","No es de conexion",161
+"Volaris","GDL","JFK",27,11,2023,"Mujer","Trabajo","Casa","Recogida","No es de conexion",145
+"Aeromar","PDX","GDL",14,12,2023,"Hombre","Trabajo","Amigos","Auto propio","Es de conexion",209
+"Aeroméxico","SJC","JFK",19,2,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","Es de conexion",122
+"Interjet","PDX","LAX",1,9,2023,"Hombre","Vuelta a casa","Amigos","Transporte público","Es de conexion",237
+"VivaAerobus","SJC","LAX",25,12,2023,"Mujer","Trabajo","Casa","Auto propio","Es de conexion",91
+"VivaAerobus","PDX","GDL",12,12,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Auto propio","Es de conexion",239
+"Aeroméxico","GDL","PDX",11,11,2023,"Hombre","Trabajo","Hotel","Recogida","Es de conexion",145
+"VivaAerobus","SJC","LAX",3,2,2023,"Mujer","Vacaciones/placer","Casa","Transporte público","Es de conexion",77
+"Aeromar","JFK","SJC",21,1,2023,"Hombre","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",134
+"Aeroméxico","SJC","GDL",10,3,2023,"Mujer","Trabajo","Casa","Renta de autos","No es de conexion",233
+"Interjet","GDL","LAX",11,6,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Transporte público","Es de conexion",136
+"Aeroméxico","PDX","LAX",22,1,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Renta de autos","Es de conexion",71
+"Aeroméxico","JFK","LAX",27,10,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",228
+"Aeromar","GDL","JFK",28,4,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","No es de conexion",48
+"Aeromar","GDL","PDX",21,12,2023,"Mujer","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",69
+"VivaAerobus","PDX","JFK",21,10,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",196
+"Aeromar","JFK","LAX",19,7,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Recogida","No es de conexion",63
+"Aeromar","GDL","JFK",10,3,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",86
+"Volaris","JFK","SJC",21,9,2023,"Hombre","Trabajo","Amigos","Transporte público","Es de conexion",76
+"VivaAerobus","GDL","LAX",20,3,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",229
+"Aeromar","LAX","SJC",13,6,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",88
+"Aeroméxico","JFK","SJC",13,5,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","Es de conexion",120
+"VivaAerobus","SJC","PDX",20,12,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",202
+"Aeromar","JFK","GDL",12,4,2023,"Mujer","Trabajo","Casa","Recogida","Es de conexion",175
+"Aeroméxico","JFK","PDX",3,1,2023,"Hombre","Vuelta a casa","Casa","Auto propio","No es de conexion",140
+"Interjet","JFK","SJC",19,5,2023,"Hombre","Trabajo","Casa","Renta de autos","No es de conexion",43
+"Aeroméxico","GDL","JFK",15,6,2023,"Hombre","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",54
+"Interjet","LAX","PDX",7,2,2023,"Hombre","Vuelta a casa","Hotel","Recogida","No es de conexion",183
+"VivaAerobus","LAX","PDX",28,2,2023,"Prefiero no decirlo","Trabajo","Hotel","Renta de autos","No es de conexion",147
+"Aeromar","JFK","LAX",22,12,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","No es de conexion",229
+"VivaAerobus","SJC","PDX",26,2,2023,"Prefiero no decirlo","Trabajo","Hotel","Renta de autos","Es de conexion",158
+"Aeroméxico","SJC","JFK",4,12,2023,"Hombre","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",52
+"Aeroméxico","SJC","PDX",1,3,2023,"Mujer","Trabajo","Hotel","Renta de autos","Es de conexion",153
+"Interjet","GDL","JFK",13,4,2023,"Mujer","Vacaciones/placer","Hotel","Auto propio","Es de conexion",74
+"Aeroméxico","PDX","GDL",4,12,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",126
+"VivaAerobus","PDX","JFK",22,2,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","Es de conexion",112
+"Aeroméxico","PDX","SJC",29,2,2023,"Mujer","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",57
+"Aeromar","JFK","SJC",4,4,2023,"Mujer","Vacaciones/placer","Casa","Transporte público","No es de conexion",131
+"Interjet","GDL","JFK",4,7,2023,"Mujer","Vacaciones/placer","Amigos","Transporte público","Es de conexion",208
+"Volaris","SJC","JFK",29,2,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",152
+"Aeroméxico","GDL","LAX",3,8,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",189
+"Aeroméxico","LAX","GDL",16,3,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Auto propio","Es de conexion",163
+"Interjet","PDX","JFK",22,11,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","No es de conexion",137
+"Volaris","JFK","GDL",17,1,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",195
+"Aeromar","SJC","LAX",28,4,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","No es de conexion",66
+"Volaris","LAX","JFK",7,12,2023,"Mujer","Vacaciones/placer","Casa","Auto propio","Es de conexion",160
+"Volaris","GDL","PDX",4,11,2023,"Mujer","Trabajo","Amigos","Auto propio","Es de conexion",95
+"Aeromar","JFK","GDL",28,7,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","No es de conexion",158
+"Interjet","GDL","SJC",26,6,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","No es de conexion",93
+"Interjet","GDL","LAX",3,4,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","Es de conexion",179
+"VivaAerobus","JFK","PDX",22,6,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",55
+"Aeroméxico","SJC","GDL",11,1,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",181
+"Volaris","LAX","SJC",4,7,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","Es de conexion",140
+"Volaris","JFK","PDX",29,9,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","No es de conexion",119
+"VivaAerobus","JFK","SJC",21,12,2023,"Mujer","Vacaciones/placer","Amigos","Recogida","Es de conexion",125
+"VivaAerobus","GDL","LAX",20,6,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","Es de conexion",59
+"Aeromar","LAX","JFK",22,6,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","Es de conexion",86
+"Aeromar","PDX","LAX",11,8,2023,"Hombre","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",227
+"Volaris","PDX","JFK",24,9,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","Es de conexion",126
+"VivaAerobus","PDX","LAX",29,11,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Renta de autos","Es de conexion",136
+"VivaAerobus","PDX","GDL",29,10,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","Es de conexion",66
+"Aeroméxico","GDL","SJC",17,9,2023,"Hombre","Vacaciones/placer","Casa","Recogida","Es de conexion",53
+"Aeroméxico","PDX","LAX",12,3,2023,"Hombre","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",174
+"Volaris","PDX","GDL",15,9,2023,"Mujer","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",112
+"Aeromar","GDL","SJC",8,12,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","Es de conexion",100
+"Aeroméxico","GDL","PDX",13,10,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","No es de conexion",94
+"Aeroméxico","JFK","LAX",6,8,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","No es de conexion",106
+"Volaris","GDL","SJC",21,12,2023,"Mujer","Vuelta a casa","Casa","Recogida","No es de conexion",150
+"Interjet","SJC","LAX",29,12,2023,"Mujer","Vuelta a casa","Casa","Auto propio","No es de conexion",103
+"Interjet","GDL","LAX",16,6,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","No es de conexion",237
+"Interjet","LAX","JFK",24,10,2023,"Mujer","Trabajo","Hotel","Auto propio","No es de conexion",79
+"Aeromar","SJC","JFK",20,2,2023,"Hombre","Trabajo","Amigos","Auto propio","Es de conexion",77
+"Aeroméxico","LAX","PDX",25,11,2023,"Mujer","Vacaciones/placer","Amigos","Auto propio","No es de conexion",76
+"Volaris","LAX","SJC",29,6,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","No es de conexion",44
+"Volaris","SJC","PDX",16,1,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","Es de conexion",229
+"VivaAerobus","PDX","LAX",2,3,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","No es de conexion",144
+"Volaris","JFK","SJC",28,1,2023,"Mujer","Vuelta a casa","Hotel","Recogida","No es de conexion",187
+"Interjet","LAX","JFK",26,12,2023,"Hombre","Vacaciones/placer","Hotel","Renta de autos","Es de conexion",106
+"VivaAerobus","GDL","LAX",23,3,2023,"Hombre","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",80
+"Interjet","SJC","GDL",1,11,2023,"Mujer","Vuelta a casa","Amigos","Recogida","Es de conexion",109
+"Volaris","GDL","JFK",15,9,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",103
+"Volaris","GDL","JFK",4,10,2023,"Mujer","Trabajo","Hotel","Auto propio","Es de conexion",171
+"Interjet","JFK","GDL",20,6,2023,"Prefiero no decirlo","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",141
+"VivaAerobus","JFK","LAX",19,6,2023,"Mujer","Vuelta a casa","Casa","Auto propio","No es de conexion",230
+"Volaris","GDL","LAX",8,5,2023,"Mujer","Vuelta a casa","Amigos","Auto propio","No es de conexion",65
+"Aeroméxico","SJC","GDL",23,6,2023,"Mujer","Vuelta a casa","Casa","Renta de autos","No es de conexion",190
+"Volaris","SJC","LAX",12,9,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",210
+"VivaAerobus","SJC","LAX",27,8,2023,"Hombre","Trabajo","Amigos","Renta de autos","No es de conexion",239
+"Aeroméxico","JFK","GDL",16,4,2023,"Hombre","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",47
+"Aeroméxico","JFK","PDX",22,6,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","No es de conexion",58
+"Volaris","LAX","SJC",15,12,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Renta de autos","No es de conexion",123
+"Aeromar","LAX","GDL",4,2,2023,"Hombre","Vacaciones/placer","Amigos","Transporte público","Es de conexion",98
+"Aeroméxico","SJC","GDL",20,8,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",154
+"Aeroméxico","PDX","LAX",1,7,2023,"Hombre","Trabajo","Hotel","Renta de autos","No es de conexion",131
+"Aeroméxico","PDX","GDL",22,2,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",104
+"Interjet","GDL","JFK",9,7,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","Es de conexion",221
+"VivaAerobus","LAX","GDL",7,12,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",229
+"Volaris","LAX","JFK",16,4,2023,"Hombre","Trabajo","Hotel","Auto propio","No es de conexion",146
+"Volaris","LAX","GDL",22,6,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","No es de conexion",186
+"VivaAerobus","JFK","PDX",4,1,2023,"Hombre","Trabajo","Amigos","Recogida","No es de conexion",130
+"Aeromar","JFK","LAX",9,12,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","No es de conexion",149
+"Aeromar","JFK","PDX",4,7,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","Es de conexion",53
+"VivaAerobus","LAX","SJC",19,12,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",72
+"Interjet","LAX","SJC",2,1,2023,"Mujer","Trabajo","Casa","Auto propio","Es de conexion",154
+"Volaris","JFK","GDL",24,4,2023,"Mujer","Vuelta a casa","Hotel","Transporte público","Es de conexion",169
+"Interjet","SJC","PDX",24,3,2023,"Hombre","Vacaciones/placer","Casa","Recogida","Es de conexion",230
+"Aeromar","LAX","JFK",15,9,2023,"Prefiero no decirlo","Trabajo","Hotel","Transporte público","Es de conexion",60
+"Aeroméxico","PDX","SJC",13,5,2023,"Hombre","Trabajo","Casa","Recogida","Es de conexion",52
+"Volaris","JFK","GDL",29,6,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","Es de conexion",195
+"Volaris","LAX","PDX",26,7,2023,"Hombre","Trabajo","Amigos","Recogida","Es de conexion",154
+"Aeromar","PDX","LAX",3,8,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",71
+"Aeromar","JFK","GDL",25,9,2023,"Mujer","Trabajo","Hotel","Transporte público","No es de conexion",178
+"Interjet","GDL","PDX",27,11,2023,"Hombre","Vuelta a casa","Hotel","Renta de autos","No es de conexion",187
+"VivaAerobus","PDX","GDL",5,12,2023,"Mujer","Trabajo","Hotel","Auto propio","No es de conexion",225
+"Aeromar","GDL","PDX",9,8,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Auto propio","No es de conexion",51
+"Aeromar","PDX","GDL",12,8,2023,"Mujer","Trabajo","Hotel","Auto propio","No es de conexion",223
+"VivaAerobus","JFK","PDX",8,1,2023,"Mujer","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",69
+"Volaris","LAX","GDL",28,2,2023,"Mujer","Vacaciones/placer","Hotel","Auto propio","No es de conexion",80
+"Interjet","GDL","JFK",27,3,2023,"Mujer","Vuelta a casa","Casa","Auto propio","Es de conexion",153
+"VivaAerobus","GDL","LAX",20,4,2023,"Hombre","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",195
+"Aeromar","PDX","GDL",7,10,2023,"Hombre","Trabajo","Hotel","Transporte público","No es de conexion",224
+"Volaris","PDX","LAX",13,12,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","No es de conexion",52
+"Volaris","SJC","GDL",18,6,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",75
+"VivaAerobus","PDX","GDL",23,12,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",158
+"Aeroméxico","JFK","GDL",7,7,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",172
+"VivaAerobus","SJC","JFK",7,12,2023,"Mujer","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",200
+"Volaris","LAX","PDX",8,5,2023,"Mujer","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",193
+"VivaAerobus","JFK","SJC",21,10,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","Es de conexion",154
+"Volaris","GDL","PDX",24,4,2023,"Hombre","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",185
+"Aeromar","JFK","SJC",21,9,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Transporte público","No es de conexion",221
+"VivaAerobus","JFK","GDL",23,8,2023,"Hombre","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",47
+"Volaris","JFK","SJC",26,7,2023,"Hombre","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",144
+"Volaris","JFK","LAX",24,9,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","No es de conexion",198
+"Interjet","JFK","SJC",18,10,2023,"Hombre","Trabajo","Casa","Renta de autos","Es de conexion",179
+"Aeromar","LAX","JFK",9,5,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Renta de autos","No es de conexion",215
+"Volaris","GDL","LAX",22,5,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","Es de conexion",87
+"VivaAerobus","PDX","JFK",25,11,2023,"Hombre","Trabajo","Hotel","Transporte público","No es de conexion",205
+"Volaris","JFK","SJC",12,6,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Recogida","Es de conexion",236
+"VivaAerobus","JFK","LAX",25,2,2023,"Hombre","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",36
+"VivaAerobus","PDX","SJC",21,2,2023,"Hombre","Vuelta a casa","Amigos","Transporte público","No es de conexion",154
+"Aeromar","GDL","JFK",9,6,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","No es de conexion",173
+"Interjet","PDX","LAX",11,2,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Recogida","Es de conexion",48
+"Aeroméxico","GDL","JFK",13,6,2023,"Hombre","Trabajo","Casa","Renta de autos","No es de conexion",51
+"Volaris","PDX","LAX",26,3,2023,"Hombre","Vuelta a casa","Casa","Renta de autos","No es de conexion",60
+"VivaAerobus","GDL","SJC",11,12,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",53
+"Volaris","SJC","JFK",16,5,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","No es de conexion",223
+"Aeroméxico","GDL","PDX",12,5,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",93
+"Volaris","JFK","SJC",1,8,2023,"Mujer","Vuelta a casa","Casa","Auto propio","Es de conexion",200
+"VivaAerobus","SJC","PDX",29,11,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",137
+"Aeromar","PDX","LAX",6,6,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","Es de conexion",130
+"VivaAerobus","GDL","SJC",13,6,2023,"Mujer","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",46
+"Interjet","JFK","SJC",27,12,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",158
+"Volaris","LAX","JFK",16,5,2023,"Mujer","Trabajo","Hotel","Renta de autos","No es de conexion",210
+"Aeromar","LAX","GDL",25,4,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",49
+"Volaris","GDL","LAX",20,12,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",99
+"Aeroméxico","JFK","GDL",9,6,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",121
+"Interjet","JFK","PDX",10,6,2023,"Mujer","Trabajo","Hotel","Renta de autos","No es de conexion",178
+"Interjet","PDX","SJC",7,6,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",160
+"Interjet","GDL","SJC",26,9,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","Es de conexion",222
+"Aeromar","SJC","LAX",26,8,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","Es de conexion",236
+"Volaris","SJC","JFK",16,11,2023,"Hombre","Vuelta a casa","Casa","Recogida","No es de conexion",150
+"Aeroméxico","LAX","SJC",1,4,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","Es de conexion",146
+"VivaAerobus","LAX","SJC",28,9,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","Es de conexion",57
+"Volaris","PDX","LAX",9,12,2023,"Mujer","Trabajo","Amigos","Auto propio","Es de conexion",165
+"Interjet","SJC","LAX",24,4,2023,"Hombre","Trabajo","Casa","Renta de autos","No es de conexion",129
+"VivaAerobus","JFK","GDL",22,6,2023,"Mujer","Vuelta a casa","Casa","Renta de autos","Es de conexion",87
+"Volaris","LAX","JFK",1,11,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",197
+"Volaris","LAX","JFK",18,6,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",210
+"Volaris","LAX","SJC",26,12,2023,"Mujer","Trabajo","Casa","Recogida","Es de conexion",229
+"Aeromar","GDL","SJC",2,10,2023,"Hombre","Vacaciones/placer","Casa","Recogida","No es de conexion",35
+"VivaAerobus","JFK","SJC",9,7,2023,"Hombre","Vuelta a casa","Casa","Transporte público","No es de conexion",130
+"Volaris","PDX","LAX",8,7,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",175
+"Volaris","GDL","LAX",24,1,2023,"Mujer","Vuelta a casa","Casa","Renta de autos","No es de conexion",176
+"Interjet","JFK","PDX",23,7,2023,"Mujer","Trabajo","Amigos","Recogida","Es de conexion",111
+"Volaris","JFK","SJC",10,9,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",37
+"VivaAerobus","JFK","PDX",6,11,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",174
+"Aeromar","SJC","PDX",4,12,2023,"Hombre","Trabajo","Amigos","Transporte público","No es de conexion",212
+"Aeromar","GDL","PDX",26,4,2023,"Mujer","Vuelta a casa","Casa","Recogida","Es de conexion",169
+"VivaAerobus","JFK","PDX",22,6,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","No es de conexion",66
+"Volaris","SJC","GDL",21,10,2023,"Hombre","Trabajo","Amigos","Transporte público","No es de conexion",110
+"Aeromar","JFK","GDL",13,9,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",55
+"VivaAerobus","JFK","PDX",6,5,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","Es de conexion",35
+"VivaAerobus","JFK","PDX",16,7,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","No es de conexion",235
+"Interjet","SJC","JFK",28,1,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",236
+"Aeromar","LAX","JFK",18,2,2023,"Mujer","Trabajo","Casa","Auto propio","No es de conexion",38
+"Aeromar","GDL","PDX",11,11,2023,"Mujer","Trabajo","Casa","Renta de autos","Es de conexion",55
+"Volaris","JFK","SJC",5,11,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","Es de conexion",210
+"Volaris","GDL","SJC",12,11,2023,"Mujer","Vuelta a casa","Casa","Transporte público","Es de conexion",54
+"VivaAerobus","LAX","SJC",19,5,2023,"Hombre","Trabajo","Casa","Renta de autos","No es de conexion",222
+"VivaAerobus","LAX","PDX",5,8,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",71
+"Interjet","SJC","GDL",7,9,2023,"Mujer","Vuelta a casa","Amigos","Recogida","No es de conexion",48
+"Volaris","LAX","SJC",2,9,2023,"Mujer","Trabajo","Hotel","Recogida","Es de conexion",152
+"Aeroméxico","PDX","JFK",7,11,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",61
+"Interjet","LAX","GDL",3,2,2023,"Hombre","Trabajo","Casa","Renta de autos","Es de conexion",47
+"Interjet","JFK","SJC",29,4,2023,"Hombre","Trabajo","Hotel","Transporte público","Es de conexion",227
+"Aeroméxico","LAX","PDX",6,10,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","No es de conexion",69
+"VivaAerobus","GDL","SJC",5,2,2023,"Prefiero no decirlo","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",75
+"VivaAerobus","PDX","SJC",25,3,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Auto propio","Es de conexion",178
+"Volaris","JFK","GDL",25,6,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","No es de conexion",209
+"Volaris","LAX","PDX",15,3,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","No es de conexion",172
+"VivaAerobus","LAX","GDL",19,11,2023,"Mujer","Vacaciones/placer","Hotel","Renta de autos","Es de conexion",130
+"Volaris","JFK","SJC",1,10,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","No es de conexion",100
+"Aeroméxico","LAX","GDL",16,6,2023,"Hombre","Vacaciones/placer","Hotel","Renta de autos","Es de conexion",153
+"Aeromar","PDX","GDL",12,9,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",212
+"Aeroméxico","LAX","PDX",9,4,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","Es de conexion",187
+"Aeromar","GDL","SJC",26,11,2023,"Mujer","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",82
+"Volaris","PDX","JFK",27,6,2023,"Hombre","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",116
+"Volaris","SJC","JFK",17,2,2023,"Hombre","Vuelta a casa","Hotel","Transporte público","Es de conexion",160
+"Aeromar","LAX","JFK",3,5,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Transporte público","Es de conexion",62
+"Volaris","JFK","PDX",22,7,2023,"Hombre","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",197
+"Aeroméxico","PDX","LAX",19,3,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",168
+"Interjet","JFK","PDX",28,3,2023,"Mujer","Vuelta a casa","Casa","Renta de autos","No es de conexion",141
+"Volaris","LAX","GDL",25,5,2023,"Mujer","Trabajo","Amigos","Auto propio","No es de conexion",146
+"Aeromar","PDX","SJC",2,1,2023,"Mujer","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",85
+"Interjet","PDX","JFK",9,3,2023,"Hombre","Vacaciones/placer","Amigos","Auto propio","Es de conexion",126
+"Aeroméxico","LAX","PDX",2,3,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",153
+"Aeroméxico","LAX","SJC",3,4,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","No es de conexion",58
+"Volaris","GDL","SJC",7,3,2023,"Prefiero no decirlo","Trabajo","Hotel","Transporte público","Es de conexion",187
+"VivaAerobus","PDX","SJC",26,7,2023,"Mujer","Vacaciones/placer","Amigos","Recogida","Es de conexion",188
+"Aeromar","JFK","PDX",22,9,2023,"Mujer","Trabajo","Hotel","Transporte público","No es de conexion",154
+"Aeromar","GDL","PDX",8,12,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",152
+"Aeroméxico","PDX","SJC",28,1,2023,"Hombre","Vacaciones/placer","Hotel","Auto propio","Es de conexion",136
+"Volaris","JFK","GDL",17,10,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",35
+"Interjet","SJC","PDX",15,2,2023,"Mujer","Trabajo","Amigos","Recogida","No es de conexion",109
+"Aeroméxico","JFK","LAX",1,12,2023,"Hombre","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",191
+"Aeroméxico","SJC","LAX",16,6,2023,"Hombre","Trabajo","Casa","Transporte público","Es de conexion",121
+"VivaAerobus","JFK","SJC",1,12,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","No es de conexion",120
+"Volaris","JFK","LAX",5,11,2023,"Mujer","Trabajo","Casa","Renta de autos","No es de conexion",120
+"Aeroméxico","LAX","GDL",28,2,2023,"Hombre","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",229
+"Interjet","SJC","JFK",16,10,2023,"Hombre","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",134
+"Volaris","LAX","GDL",12,2,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",213
+"VivaAerobus","GDL","LAX",10,5,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","No es de conexion",122
+"Aeroméxico","GDL","SJC",17,3,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","No es de conexion",193
+"Aeromar","JFK","PDX",4,11,2023,"Prefiero no decirlo","Trabajo","Casa","Transporte público","No es de conexion",133
+"VivaAerobus","PDX","GDL",7,2,2023,"Mujer","Vacaciones/placer","Casa","Transporte público","Es de conexion",83
+"Interjet","GDL","LAX",9,3,2023,"Prefiero no decirlo","Trabajo","Hotel","Transporte público","No es de conexion",146
+"Volaris","JFK","GDL",26,1,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","Es de conexion",138
+"Aeromar","PDX","SJC",16,3,2023,"Hombre","Trabajo","Casa","Transporte público","Es de conexion",55
+"Aeroméxico","SJC","JFK",9,4,2023,"Mujer","Trabajo","Casa","Recogida","No es de conexion",200
+"Aeroméxico","LAX","JFK",14,10,2023,"Hombre","Vacaciones/placer","Hotel","Transporte público","No es de conexion",147
+"Aeromar","SJC","JFK",25,4,2023,"Hombre","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",205
+"Volaris","LAX","SJC",1,12,2023,"Hombre","Trabajo","Hotel","Renta de autos","Es de conexion",79
+"Interjet","JFK","LAX",29,4,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",33
+"Interjet","PDX","LAX",16,1,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","No es de conexion",62
+"Interjet","PDX","SJC",6,8,2023,"Mujer","Trabajo","Hotel","Transporte público","Es de conexion",68
+"Aeromar","SJC","JFK",26,2,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","Es de conexion",31
+"Aeromar","GDL","SJC",26,12,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Transporte público","Es de conexion",125
+"Interjet","SJC","GDL",15,1,2023,"Hombre","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",231
+"Interjet","LAX","JFK",1,4,2023,"Mujer","Vuelta a casa","Hotel","Renta de autos","Es de conexion",190
+"Interjet","GDL","PDX",11,4,2023,"Mujer","Vuelta a casa","Amigos","Renta de autos","Es de conexion",157
+"Aeromar","LAX","SJC",26,6,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","Es de conexion",224
+"Aeroméxico","GDL","SJC",21,11,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",154
+"Aeroméxico","PDX","GDL",28,9,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","No es de conexion",178
+"Volaris","SJC","GDL",7,11,2023,"Hombre","Trabajo","Casa","Transporte público","Es de conexion",194
+"Interjet","JFK","SJC",23,4,2023,"Mujer","Trabajo","Amigos","Recogida","No es de conexion",148
+"Aeromar","PDX","LAX",1,7,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",171
+"Volaris","SJC","LAX",5,1,2023,"Mujer","Vacaciones/placer","Hotel","Auto propio","Es de conexion",124
+"Interjet","SJC","PDX",11,12,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","Es de conexion",79
+"Aeroméxico","JFK","GDL",5,4,2023,"Mujer","Trabajo","Amigos","Recogida","Es de conexion",101
+"Volaris","PDX","GDL",26,2,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",168
+"VivaAerobus","GDL","JFK",25,11,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","No es de conexion",91
+"Aeroméxico","JFK","LAX",8,9,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Auto propio","No es de conexion",200
+"Aeroméxico","JFK","GDL",26,8,2023,"Hombre","Trabajo","Hotel","Transporte público","No es de conexion",153
+"Volaris","LAX","PDX",12,2,2023,"Hombre","Trabajo","Hotel","Recogida","No es de conexion",81
+"Volaris","GDL","LAX",3,8,2023,"Mujer","Vuelta a casa","Amigos","Auto propio","No es de conexion",122
+"Aeroméxico","SJC","LAX",7,3,2023,"Mujer","Trabajo","Hotel","Transporte público","Es de conexion",76
+"Interjet","JFK","PDX",20,11,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",40
+"Aeroméxico","SJC","JFK",20,9,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",34
+"Interjet","SJC","JFK",8,8,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",100
+"Volaris","JFK","GDL",16,6,2023,"Mujer","Vuelta a casa","Hotel","Transporte público","No es de conexion",167
+"Interjet","GDL","JFK",7,2,2023,"Hombre","Trabajo","Amigos","Recogida","Es de conexion",135
+"Aeroméxico","PDX","SJC",5,5,2023,"Mujer","Trabajo","Hotel","Recogida","No es de conexion",191
+"Volaris","JFK","LAX",15,10,2023,"Hombre","Trabajo","Hotel","Recogida","No es de conexion",234
+"VivaAerobus","JFK","GDL",3,5,2023,"Prefiero no decirlo","Trabajo","Amigos","Recogida","No es de conexion",231
+"Aeroméxico","GDL","PDX",9,2,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","No es de conexion",49
+"Interjet","LAX","GDL",14,10,2023,"Hombre","Vacaciones/placer","Hotel","Auto propio","Es de conexion",58
+"VivaAerobus","LAX","JFK",23,5,2023,"Hombre","Vuelta a casa","Hotel","Renta de autos","No es de conexion",51
+"Interjet","SJC","PDX",8,1,2023,"Hombre","Vuelta a casa","Hotel","Transporte público","Es de conexion",212
+"VivaAerobus","PDX","SJC",13,4,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","Es de conexion",55
+"Interjet","GDL","SJC",22,2,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",225
+"Aeromar","LAX","PDX",1,11,2023,"Prefiero no decirlo","Trabajo","Amigos","Auto propio","No es de conexion",144
+"VivaAerobus","GDL","JFK",1,2,2023,"Prefiero no decirlo","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",67
+"Aeromar","LAX","GDL",10,2,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",160
+"Aeromar","GDL","LAX",18,5,2023,"Mujer","Vuelta a casa","Amigos","Renta de autos","No es de conexion",37
+"Interjet","GDL","JFK",23,2,2023,"Prefiero no decirlo","Trabajo","Amigos","Renta de autos","Es de conexion",190
+"Interjet","PDX","LAX",10,7,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","No es de conexion",32
+"Aeromar","JFK","SJC",8,11,2023,"Mujer","Vuelta a casa","Amigos","Recogida","No es de conexion",125
+"Interjet","SJC","JFK",7,3,2023,"Mujer","Trabajo","Casa","Recogida","Es de conexion",36
+"Interjet","GDL","JFK",2,7,2023,"Hombre","Trabajo","Amigos","Recogida","Es de conexion",185
+"VivaAerobus","GDL","JFK",19,9,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","Es de conexion",67
+"Aeromar","LAX","PDX",11,2,2023,"Hombre","Trabajo","Hotel","Transporte público","Es de conexion",169
+"Aeroméxico","JFK","GDL",22,10,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","No es de conexion",185
+"Aeromar","PDX","JFK",25,12,2023,"Prefiero no decirlo","Trabajo","Casa","Transporte público","No es de conexion",51
+"VivaAerobus","PDX","LAX",8,7,2023,"Hombre","Vuelta a casa","Casa","Auto propio","Es de conexion",148
+"Interjet","PDX","JFK",3,12,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",135
+"Aeromar","SJC","PDX",18,2,2023,"Hombre","Vacaciones/placer","Amigos","Auto propio","No es de conexion",61
+"Aeromar","JFK","GDL",23,9,2023,"Mujer","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",162
+"Interjet","LAX","GDL",16,1,2023,"Prefiero no decirlo","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",144
+"Aeroméxico","GDL","SJC",20,7,2023,"Prefiero no decirlo","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",85
+"Interjet","LAX","SJC",16,7,2023,"Mujer","Trabajo","Casa","Transporte público","No es de conexion",204
+"Aeromar","GDL","LAX",1,4,2023,"Prefiero no decirlo","Trabajo","Hotel","Renta de autos","Es de conexion",195
+"Volaris","LAX","GDL",17,7,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Auto propio","Es de conexion",86
+"VivaAerobus","SJC","JFK",5,11,2023,"Hombre","Vuelta a casa","Casa","Auto propio","No es de conexion",56
+"Aeroméxico","JFK","GDL",4,12,2023,"Prefiero no decirlo","Trabajo","Hotel","Transporte público","Es de conexion",104
+"Aeromar","JFK","SJC",3,2,2023,"Mujer","Vacaciones/placer","Hotel","Auto propio","Es de conexion",136
+"Aeroméxico","GDL","SJC",22,11,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",64
+"VivaAerobus","GDL","SJC",24,4,2023,"Prefiero no decirlo","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",160
+"Volaris","GDL","PDX",1,4,2023,"Mujer","Trabajo","Casa","Auto propio","No es de conexion",71
+"Volaris","PDX","SJC",28,3,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Renta de autos","No es de conexion",124
+"Aeroméxico","SJC","JFK",5,12,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","No es de conexion",145
+"Interjet","LAX","JFK",12,8,2023,"Hombre","Vacaciones/placer","Casa","Recogida","Es de conexion",188
+"Aeromar","LAX","GDL",15,2,2023,"Mujer","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",162
+"Aeromar","JFK","SJC",1,10,2023,"Hombre","Trabajo","Amigos","Auto propio","Es de conexion",190
+"Volaris","PDX","LAX",16,5,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",54
+"Aeroméxico","PDX","JFK",2,8,2023,"Hombre","Vuelta a casa","Hotel","Auto propio","No es de conexion",203
+"Aeroméxico","SJC","LAX",15,9,2023,"Mujer","Trabajo","Amigos","Auto propio","Es de conexion",148
+"Aeromar","PDX","LAX",25,12,2023,"Mujer","Trabajo","Hotel","Auto propio","Es de conexion",65
+"Aeroméxico","JFK","LAX",26,5,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",193
+"Aeromar","PDX","LAX",21,9,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",151
+"VivaAerobus","JFK","SJC",14,7,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",182
+"Aeromar","PDX","JFK",16,6,2023,"Hombre","Vuelta a casa","Hotel","Transporte público","Es de conexion",111
+"VivaAerobus","SJC","PDX",21,4,2023,"Hombre","Vacaciones/placer","Casa","Recogida","Es de conexion",86
+"Aeromar","SJC","PDX",19,8,2023,"Hombre","Vacaciones/placer","Hotel","Recogida","Es de conexion",33
+"VivaAerobus","SJC","PDX",22,10,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Auto propio","No es de conexion",197
+"Volaris","SJC","LAX",10,9,2023,"Mujer","Trabajo","Hotel","Renta de autos","Es de conexion",224
+"Interjet","SJC","JFK",6,6,2023,"Mujer","Trabajo","Amigos","Renta de autos","No es de conexion",59
+"Aeroméxico","GDL","JFK",27,9,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","No es de conexion",47
+"Aeromar","JFK","GDL",16,3,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","Es de conexion",39
+"Aeroméxico","JFK","SJC",24,3,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","Es de conexion",88
+"VivaAerobus","LAX","GDL",18,9,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",153
+"VivaAerobus","LAX","PDX",24,12,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","Es de conexion",102
+"Volaris","GDL","SJC",10,6,2023,"Prefiero no decirlo","Trabajo","Hotel","Renta de autos","Es de conexion",97
+"Aeromar","SJC","JFK",23,3,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","Es de conexion",201
+"Aeroméxico","LAX","JFK",20,8,2023,"Hombre","Vuelta a casa","Casa","Auto propio","No es de conexion",73
+"Interjet","GDL","PDX",13,5,2023,"Mujer","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",42
+"Interjet","JFK","LAX",19,6,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",98
+"Aeroméxico","PDX","JFK",5,1,2023,"Mujer","Vuelta a casa","Casa","Transporte público","Es de conexion",71
+"VivaAerobus","GDL","JFK",28,5,2023,"Hombre","Vacaciones/placer","Casa","Renta de autos","Es de conexion",185
+"Volaris","LAX","JFK",12,9,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",180
+"Volaris","SJC","LAX",28,11,2023,"Prefiero no decirlo","Trabajo","Casa","Transporte público","Es de conexion",134
+"Aeroméxico","PDX","LAX",17,11,2023,"Hombre","Vuelta a casa","Casa","Auto propio","No es de conexion",155
+"Volaris","PDX","GDL",27,1,2023,"Hombre","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",211
+"Aeroméxico","PDX","SJC",14,5,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",92
+"Volaris","JFK","SJC",16,10,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Recogida","No es de conexion",223
+"Interjet","LAX","PDX",9,10,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","Es de conexion",110
+"Aeromar","GDL","JFK",27,6,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Transporte público","No es de conexion",40
+"VivaAerobus","PDX","SJC",26,2,2023,"Mujer","Vuelta a casa","Amigos","Recogida","Es de conexion",90
+"VivaAerobus","PDX","JFK",16,3,2023,"Prefiero no decirlo","Trabajo","Hotel","Renta de autos","Es de conexion",62
+"VivaAerobus","PDX","GDL",14,9,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Recogida","No es de conexion",216
+"VivaAerobus","LAX","SJC",14,12,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",101
+"Volaris","LAX","PDX",20,9,2023,"Hombre","Vuelta a casa","Casa","Auto propio","No es de conexion",205
+"Volaris","SJC","JFK",3,10,2023,"Hombre","Trabajo","Amigos","Recogida","Es de conexion",144
+"Interjet","PDX","JFK",10,10,2023,"Hombre","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",217
+"Interjet","GDL","LAX",23,6,2023,"Mujer","Vuelta a casa","Amigos","Recogida","No es de conexion",228
+"Aeroméxico","GDL","LAX",18,3,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",200
+"VivaAerobus","PDX","LAX",6,4,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","No es de conexion",180
+"Aeroméxico","PDX","LAX",15,4,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",143
+"Aeromar","JFK","SJC",27,7,2023,"Mujer","Trabajo","Amigos","Transporte público","Es de conexion",176
+"Interjet","JFK","PDX",4,6,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","Es de conexion",78
+"Volaris","GDL","LAX",2,11,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","No es de conexion",188
+"VivaAerobus","LAX","PDX",13,3,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Renta de autos","Es de conexion",167
+"VivaAerobus","GDL","LAX",29,1,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",37
+"VivaAerobus","GDL","SJC",6,2,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","Es de conexion",216
+"Aeromar","LAX","PDX",17,9,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","Es de conexion",144
+"VivaAerobus","PDX","JFK",17,5,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",108
+"Interjet","LAX","GDL",26,10,2023,"Mujer","Vuelta a casa","Hotel","Renta de autos","Es de conexion",240
+"Interjet","JFK","LAX",19,6,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","Es de conexion",189
+"Aeromar","LAX","GDL",3,8,2023,"Hombre","Vuelta a casa","Casa","Auto propio","No es de conexion",103
+"VivaAerobus","LAX","PDX",19,6,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",75
+"Aeroméxico","JFK","GDL",19,11,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",32
+"VivaAerobus","LAX","GDL",12,4,2023,"Mujer","Vuelta a casa","Casa","Renta de autos","No es de conexion",236
+"Aeroméxico","JFK","GDL",22,10,2023,"Hombre","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",51
+"Aeromar","JFK","SJC",25,7,2023,"Mujer","Trabajo","Amigos","Renta de autos","No es de conexion",64
+"VivaAerobus","GDL","JFK",12,4,2023,"Hombre","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",174
+"Aeromar","SJC","PDX",24,2,2023,"Hombre","Vuelta a casa","Hotel","Renta de autos","No es de conexion",32
+"Interjet","LAX","SJC",29,12,2023,"Hombre","Vacaciones/placer","Hotel","Recogida","No es de conexion",195
+"Aeromar","JFK","SJC",5,6,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","Es de conexion",46
+"Interjet","GDL","PDX",27,3,2023,"Mujer","Vuelta a casa","Hotel","Transporte público","Es de conexion",105
+"Interjet","SJC","LAX",11,7,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",120
+"Volaris","SJC","JFK",28,6,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",220
+"Interjet","PDX","SJC",17,10,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",130
+"Aeromar","JFK","SJC",29,2,2023,"Mujer","Trabajo","Casa","Transporte público","Es de conexion",145
+"Aeromar","JFK","LAX",3,2,2023,"Mujer","Trabajo","Casa","Transporte público","No es de conexion",178
+"Aeroméxico","GDL","LAX",5,5,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","Es de conexion",107
+"Aeromar","PDX","LAX",15,1,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",223
+"VivaAerobus","GDL","SJC",6,8,2023,"Prefiero no decirlo","Trabajo","Amigos","Renta de autos","Es de conexion",42
+"Aeromar","GDL","JFK",25,7,2023,"Hombre","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",108
+"Interjet","SJC","JFK",1,2,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",33
+"Aeroméxico","JFK","LAX",1,12,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Auto propio","No es de conexion",34
+"VivaAerobus","PDX","LAX",7,8,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",202
+"Interjet","JFK","PDX",13,2,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","No es de conexion",152
+"Aeroméxico","LAX","SJC",7,2,2023,"Hombre","Trabajo","Amigos","Renta de autos","Es de conexion",57
+"Interjet","GDL","JFK",26,12,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","No es de conexion",164
+"Aeromar","LAX","SJC",5,8,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","Es de conexion",108
+"Volaris","JFK","PDX",22,3,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","Es de conexion",52
+"VivaAerobus","PDX","SJC",12,12,2023,"Mujer","Vacaciones/placer","Casa","Transporte público","Es de conexion",41
+"Aeromar","PDX","JFK",22,8,2023,"Hombre","Trabajo","Hotel","Transporte público","No es de conexion",57
+"Volaris","GDL","JFK",16,1,2023,"Hombre","Trabajo","Hotel","Recogida","No es de conexion",136
+"Aeromar","SJC","JFK",15,10,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",222
+"VivaAerobus","GDL","JFK",16,6,2023,"Hombre","Trabajo","Amigos","Auto propio","Es de conexion",234
+"VivaAerobus","GDL","LAX",15,8,2023,"Hombre","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",126
+"VivaAerobus","JFK","GDL",16,12,2023,"Mujer","Trabajo","Amigos","Renta de autos","Es de conexion",61
+"Aeroméxico","LAX","PDX",14,2,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Recogida","Es de conexion",219
+"Interjet","LAX","JFK",4,1,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","No es de conexion",140
+"VivaAerobus","LAX","SJC",29,11,2023,"Hombre","Vuelta a casa","Hotel","Auto propio","No es de conexion",189
+"Volaris","LAX","SJC",12,11,2023,"Mujer","Vuelta a casa","Amigos","Renta de autos","No es de conexion",139
+"Interjet","LAX","SJC",27,2,2023,"Hombre","Trabajo","Casa","Auto propio","Es de conexion",219
+"Aeroméxico","LAX","JFK",9,10,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Auto propio","Es de conexion",150
+"Aeroméxico","LAX","SJC",6,2,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",103
+"Aeromar","PDX","JFK",23,4,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","Es de conexion",62
+"Volaris","SJC","JFK",16,4,2023,"Mujer","Vuelta a casa","Amigos","Recogida","No es de conexion",169
+"VivaAerobus","JFK","PDX",25,3,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Auto propio","No es de conexion",227
+"Aeromar","GDL","SJC",19,2,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Recogida","Es de conexion",170
+"VivaAerobus","JFK","PDX",26,12,2023,"Mujer","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",209
+"Volaris","LAX","PDX",27,8,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Recogida","Es de conexion",57
+"Volaris","LAX","JFK",29,2,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","No es de conexion",229
+"Interjet","LAX","JFK",12,2,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",131
+"Aeromar","SJC","GDL",17,12,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Auto propio","Es de conexion",176
+"Interjet","SJC","GDL",23,8,2023,"Mujer","Trabajo","Hotel","Renta de autos","Es de conexion",54
+"Interjet","PDX","GDL",5,11,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","Es de conexion",190
+"VivaAerobus","LAX","PDX",1,7,2023,"Hombre","Vuelta a casa","Hotel","Transporte público","No es de conexion",238
+"Interjet","LAX","PDX",12,12,2023,"Mujer","Trabajo","Casa","Auto propio","No es de conexion",105
+"Aeroméxico","SJC","PDX",14,10,2023,"Hombre","Vacaciones/placer","Casa","Renta de autos","No es de conexion",45
+"Volaris","PDX","SJC",2,4,2023,"Mujer","Vuelta a casa","Casa","Auto propio","Es de conexion",40
+"Aeromar","JFK","SJC",9,12,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Auto propio","Es de conexion",117
+"Interjet","LAX","SJC",8,9,2023,"Hombre","Vuelta a casa","Amigos","Recogida","No es de conexion",155
+"Volaris","GDL","JFK",18,4,2023,"Hombre","Trabajo","Amigos","Recogida","No es de conexion",44
+"Aeroméxico","SJC","LAX",8,2,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","Es de conexion",39
+"Interjet","PDX","LAX",11,10,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",151
+"Aeromar","LAX","PDX",1,11,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",180
+"Volaris","SJC","LAX",13,3,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","Es de conexion",113
+"VivaAerobus","PDX","JFK",12,9,2023,"Hombre","Vacaciones/placer","Amigos","Transporte público","No es de conexion",101
+"Aeroméxico","JFK","PDX",4,11,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",132
+"Aeroméxico","PDX","GDL",18,4,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","Es de conexion",98
+"Volaris","JFK","LAX",7,4,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Recogida","No es de conexion",157
+"Aeroméxico","JFK","GDL",28,10,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Recogida","No es de conexion",56
+"Interjet","PDX","LAX",7,6,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Renta de autos","No es de conexion",44
+"Volaris","GDL","PDX",19,10,2023,"Mujer","Vuelta a casa","Hotel","Transporte público","No es de conexion",233
+"Aeroméxico","GDL","PDX",29,10,2023,"Mujer","Vuelta a casa","Casa","Recogida","Es de conexion",165
+"Volaris","LAX","PDX",15,5,2023,"Prefiero no decirlo","Trabajo","Amigos","Auto propio","Es de conexion",141
+"VivaAerobus","PDX","JFK",6,8,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Auto propio","Es de conexion",137
+"Aeroméxico","LAX","SJC",8,9,2023,"Mujer","Trabajo","Amigos","Auto propio","Es de conexion",143
+"Aeromar","GDL","JFK",20,3,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",76
+"VivaAerobus","JFK","LAX",8,9,2023,"Mujer","Trabajo","Amigos","Transporte público","No es de conexion",92
+"Interjet","LAX","PDX",27,7,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","No es de conexion",64
+"Volaris","GDL","SJC",25,11,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",190
+"Aeroméxico","SJC","GDL",23,1,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Recogida","No es de conexion",37
+"VivaAerobus","JFK","GDL",25,6,2023,"Hombre","Vuelta a casa","Casa","Renta de autos","Es de conexion",198
+"VivaAerobus","PDX","JFK",18,7,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",68
+"Interjet","JFK","PDX",16,1,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","No es de conexion",184
+"Interjet","GDL","SJC",17,11,2023,"Hombre","Vacaciones/placer","Amigos","Transporte público","Es de conexion",82
+"Aeroméxico","SJC","GDL",21,4,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",156
+"Aeroméxico","JFK","SJC",20,5,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",40
+"Interjet","SJC","GDL",26,4,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Auto propio","Es de conexion",142
+"Interjet","PDX","LAX",16,11,2023,"Mujer","Vacaciones/placer","Casa","Recogida","No es de conexion",228
+"Volaris","PDX","GDL",3,11,2023,"Mujer","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",159
+"VivaAerobus","LAX","SJC",18,5,2023,"Hombre","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",196
+"Aeromar","LAX","SJC",20,6,2023,"Hombre","Trabajo","Hotel","Renta de autos","No es de conexion",83
+"VivaAerobus","LAX","PDX",14,10,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","No es de conexion",238
+"Aeromar","JFK","LAX",29,12,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Recogida","Es de conexion",235
+"Interjet","PDX","LAX",9,6,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",107
+"Interjet","SJC","LAX",17,4,2023,"Prefiero no decirlo","Trabajo","Casa","Recogida","No es de conexion",80
+"Volaris","GDL","LAX",4,5,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","No es de conexion",59
+"VivaAerobus","PDX","LAX",22,5,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",76
+"Aeroméxico","GDL","PDX",3,12,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",96
+"Aeromar","JFK","LAX",16,11,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",166
+"Aeroméxico","PDX","GDL",28,4,2023,"Prefiero no decirlo","Trabajo","Casa","Transporte público","No es de conexion",182
+"Interjet","PDX","LAX",20,7,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",39
+"VivaAerobus","GDL","LAX",6,8,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","Es de conexion",195
+"Interjet","SJC","GDL",9,12,2023,"Mujer","Vuelta a casa","Casa","Auto propio","Es de conexion",65
+"Volaris","PDX","GDL",7,10,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Auto propio","Es de conexion",167
+"Aeromar","JFK","PDX",26,5,2023,"Prefiero no decirlo","Trabajo","Hotel","Recogida","No es de conexion",222
+"VivaAerobus","LAX","PDX",20,9,2023,"Mujer","Vacaciones/placer","Amigos","Transporte público","Es de conexion",151
+"Volaris","JFK","PDX",25,5,2023,"Prefiero no decirlo","Trabajo","Hotel","Recogida","Es de conexion",148
+"Aeroméxico","JFK","PDX",3,9,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","Es de conexion",220
+"Volaris","JFK","GDL",12,7,2023,"Hombre","Trabajo","Casa","Auto propio","Es de conexion",88
+"VivaAerobus","LAX","SJC",21,10,2023,"Hombre","Vuelta a casa","Hotel","Recogida","Es de conexion",198
+"VivaAerobus","JFK","LAX",23,6,2023,"Mujer","Vuelta a casa","Casa","Renta de autos","No es de conexion",130
+"Aeromar","LAX","JFK",26,8,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",184
+"Aeroméxico","SJC","GDL",1,6,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","Es de conexion",205
+"Interjet","LAX","SJC",26,7,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Auto propio","No es de conexion",143
+"VivaAerobus","JFK","GDL",3,11,2023,"Hombre","Trabajo","Casa","Auto propio","No es de conexion",47
+"VivaAerobus","LAX","JFK",15,11,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",31
+"Volaris","PDX","SJC",25,7,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",57
+"Aeroméxico","SJC","JFK",17,9,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Recogida","No es de conexion",102
+"Aeromar","PDX","LAX",1,8,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","No es de conexion",42
+"VivaAerobus","SJC","PDX",2,7,2023,"Hombre","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",60
+"Aeromar","PDX","JFK",20,12,2023,"Hombre","Trabajo","Hotel","Auto propio","No es de conexion",205
+"Volaris","SJC","PDX",26,8,2023,"Hombre","Vacaciones/placer","Casa","Recogida","No es de conexion",213
+"Aeromar","SJC","JFK",17,3,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Auto propio","Es de conexion",31
+"Aeroméxico","SJC","LAX",1,12,2023,"Hombre","Vuelta a casa","Casa","Renta de autos","No es de conexion",94
+"Aeromar","GDL","JFK",24,4,2023,"Mujer","Vuelta a casa","Casa","Recogida","No es de conexion",210
+"Interjet","SJC","PDX",4,1,2023,"Mujer","Vacaciones/placer","Amigos","Auto propio","Es de conexion",161
+"Aeroméxico","PDX","JFK",8,1,2023,"Hombre","Trabajo","Casa","Renta de autos","Es de conexion",231
+"Aeromar","SJC","JFK",5,8,2023,"Hombre","Trabajo","Amigos","Transporte público","No es de conexion",67
+"Volaris","JFK","LAX",6,2,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",95
+"VivaAerobus","JFK","SJC",20,1,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",113
+"Interjet","JFK","PDX",7,5,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",33
+"Aeroméxico","JFK","GDL",10,5,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","No es de conexion",98
+"Volaris","GDL","JFK",7,2,2023,"Hombre","Trabajo","Amigos","Renta de autos","No es de conexion",178
+"Aeroméxico","JFK","SJC",8,3,2023,"Hombre","Vacaciones/placer","Amigos","Transporte público","Es de conexion",100
+"Volaris","LAX","GDL",2,5,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","No es de conexion",53
+"Volaris","SJC","LAX",12,10,2023,"Mujer","Vacaciones/placer","Hotel","Auto propio","No es de conexion",231
+"Volaris","PDX","GDL",28,6,2023,"Hombre","Vacaciones/placer","Casa","Recogida","No es de conexion",68
+"Volaris","JFK","SJC",8,9,2023,"Hombre","Trabajo","Amigos","Recogida","No es de conexion",180
+"Aeroméxico","PDX","SJC",24,6,2023,"Hombre","Vuelta a casa","Hotel","Renta de autos","No es de conexion",203
+"VivaAerobus","LAX","SJC",4,8,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","Es de conexion",160
+"Aeroméxico","SJC","GDL",19,6,2023,"Prefiero no decirlo","Trabajo","Casa","Transporte público","No es de conexion",162
+"Interjet","LAX","JFK",29,3,2023,"Hombre","Vuelta a casa","Amigos","Recogida","No es de conexion",197
+"Volaris","SJC","PDX",16,9,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",64
+"Aeroméxico","PDX","GDL",10,1,2023,"Mujer","Trabajo","Amigos","Renta de autos","No es de conexion",86
+"VivaAerobus","LAX","PDX",25,5,2023,"Hombre","Trabajo","Casa","Renta de autos","No es de conexion",221
+"Interjet","LAX","PDX",16,5,2023,"Mujer","Vuelta a casa","Amigos","Recogida","No es de conexion",224
+"Volaris","LAX","SJC",2,11,2023,"Mujer","Trabajo","Casa","Renta de autos","Es de conexion",232
+"Volaris","LAX","JFK",13,9,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",106
+"Volaris","SJC","GDL",5,3,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",87
+"Interjet","GDL","SJC",6,11,2023,"Mujer","Vuelta a casa","Casa","Transporte público","Es de conexion",43
+"VivaAerobus","LAX","PDX",3,8,2023,"Mujer","Vuelta a casa","Hotel","Recogida","No es de conexion",203
+"VivaAerobus","PDX","LAX",27,12,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",35
+"Aeroméxico","LAX","GDL",28,10,2023,"Prefiero no decirlo","Trabajo","Hotel","Transporte público","No es de conexion",232
+"Interjet","JFK","SJC",13,10,2023,"Hombre","Vuelta a casa","Casa","Recogida","No es de conexion",162
+"Aeromar","SJC","LAX",14,7,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Auto propio","Es de conexion",218
+"VivaAerobus","JFK","PDX",20,1,2023,"Mujer","Vacaciones/placer","Casa","Transporte público","Es de conexion",154
+"VivaAerobus","SJC","GDL",19,1,2023,"Mujer","Trabajo","Casa","Renta de autos","No es de conexion",111
+"Aeroméxico","JFK","GDL",15,11,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",99
+"Volaris","LAX","GDL",13,12,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",66
+"Aeroméxico","LAX","JFK",10,6,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","Es de conexion",43
+"Interjet","PDX","GDL",19,9,2023,"Hombre","Vuelta a casa","Hotel","Recogida","No es de conexion",61
+"Aeroméxico","JFK","PDX",27,6,2023,"Hombre","Vuelta a casa","Amigos","Recogida","No es de conexion",218
+"Interjet","LAX","SJC",11,2,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Auto propio","Es de conexion",81
+"Aeroméxico","SJC","PDX",15,3,2023,"Hombre","Trabajo","Casa","Recogida","No es de conexion",211
+"Interjet","GDL","SJC",14,8,2023,"Hombre","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",44
+"Interjet","SJC","GDL",20,3,2023,"Mujer","Trabajo","Amigos","Auto propio","No es de conexion",154
+"Aeroméxico","PDX","GDL",22,11,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",201
+"Volaris","GDL","SJC",17,6,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","Es de conexion",211
+"Volaris","SJC","JFK",9,7,2023,"Prefiero no decirlo","Trabajo","Hotel","Recogida","Es de conexion",204
+"Aeroméxico","JFK","GDL",27,12,2023,"Mujer","Trabajo","Amigos","Transporte público","Es de conexion",103
+"Interjet","GDL","LAX",25,11,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","No es de conexion",217
+"Aeromar","SJC","LAX",2,5,2023,"Mujer","Vuelta a casa","Casa","Auto propio","No es de conexion",132
+"Aeromar","SJC","PDX",10,4,2023,"Hombre","Vuelta a casa","Casa","Recogida","No es de conexion",136
+"Volaris","LAX","JFK",26,3,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",47
+"Interjet","SJC","LAX",28,3,2023,"Hombre","Vacaciones/placer","Amigos","Transporte público","No es de conexion",143
+"Aeromar","PDX","SJC",25,7,2023,"Hombre","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",165
+"Volaris","PDX","GDL",12,1,2023,"Hombre","Trabajo","Hotel","Recogida","No es de conexion",221
+"VivaAerobus","SJC","GDL",4,6,2023,"Mujer","Trabajo","Casa","Transporte público","Es de conexion",144
+"Aeromar","PDX","SJC",18,1,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Renta de autos","Es de conexion",34
+"Aeroméxico","LAX","JFK",28,4,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Recogida","Es de conexion",183
+"VivaAerobus","SJC","LAX",28,4,2023,"Mujer","Trabajo","Amigos","Recogida","Es de conexion",91
+"Interjet","GDL","SJC",25,9,2023,"Hombre","Trabajo","Hotel","Renta de autos","No es de conexion",81
+"Aeromar","PDX","LAX",15,9,2023,"Hombre","Trabajo","Casa","Transporte público","Es de conexion",48
+"Volaris","PDX","LAX",7,5,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",216
+"Aeroméxico","GDL","JFK",23,1,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",117
+"Aeroméxico","LAX","JFK",28,7,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","No es de conexion",105
+"Aeromar","LAX","GDL",1,8,2023,"Mujer","Vacaciones/placer","Casa","Recogida","Es de conexion",200
+"Aeromar","PDX","JFK",3,6,2023,"Hombre","Trabajo","Casa","Auto propio","Es de conexion",113
+"Volaris","PDX","GDL",9,2,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",146
+"Aeromar","LAX","PDX",9,4,2023,"Hombre","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",223
+"VivaAerobus","SJC","LAX",18,4,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",131
+"Aeroméxico","JFK","GDL",19,2,2023,"Hombre","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",40
+"VivaAerobus","JFK","SJC",5,7,2023,"Hombre","Trabajo","Amigos","Renta de autos","Es de conexion",191
+"Aeromar","SJC","LAX",3,12,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Auto propio","No es de conexion",97
+"VivaAerobus","PDX","GDL",20,3,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",48
+"VivaAerobus","JFK","SJC",19,4,2023,"Hombre","Trabajo","Casa","Transporte público","Es de conexion",114
+"VivaAerobus","LAX","GDL",11,5,2023,"Mujer","Vuelta a casa","Casa","Auto propio","No es de conexion",156
+"Aeroméxico","GDL","SJC",8,8,2023,"Prefiero no decirlo","Trabajo","Hotel","Recogida","Es de conexion",166
+"Aeroméxico","LAX","JFK",20,2,2023,"Mujer","Vacaciones/placer","Casa","Transporte público","Es de conexion",176
+"Aeroméxico","SJC","LAX",9,9,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",205
+"Interjet","JFK","PDX",16,5,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","Es de conexion",101
+"Volaris","SJC","GDL",20,7,2023,"Hombre","Trabajo","Casa","Renta de autos","Es de conexion",143
+"Interjet","SJC","GDL",22,4,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Transporte público","Es de conexion",227
+"Interjet","JFK","LAX",24,12,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","Es de conexion",123
+"VivaAerobus","GDL","JFK",18,1,2023,"Hombre","Vuelta a casa","Casa","Renta de autos","Es de conexion",67
+"VivaAerobus","GDL","PDX",25,5,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","No es de conexion",57
+"Volaris","PDX","JFK",8,2,2023,"Mujer","Vuelta a casa","Casa","Auto propio","Es de conexion",202
+"VivaAerobus","LAX","PDX",27,10,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","Es de conexion",111
+"VivaAerobus","GDL","JFK",11,4,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","Es de conexion",201
+"Volaris","SJC","LAX",29,10,2023,"Mujer","Vacaciones/placer","Casa","Auto propio","No es de conexion",36
+"Interjet","SJC","PDX",5,8,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","No es de conexion",167
+"VivaAerobus","GDL","PDX",7,5,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Auto propio","No es de conexion",172
+"Volaris","PDX","LAX",21,5,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","Es de conexion",43
+"VivaAerobus","SJC","PDX",8,6,2023,"Prefiero no decirlo","Trabajo","Hotel","Transporte público","No es de conexion",69
+"Volaris","SJC","JFK",24,9,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","Es de conexion",34
+"Aeroméxico","PDX","JFK",19,12,2023,"Hombre","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",201
+"Volaris","GDL","LAX",5,11,2023,"Prefiero no decirlo","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",103
+"Interjet","SJC","JFK",27,12,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Recogida","Es de conexion",197
+"VivaAerobus","SJC","JFK",20,8,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","No es de conexion",157
+"Aeroméxico","JFK","SJC",15,7,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",177
+"Aeromar","GDL","PDX",2,12,2023,"Hombre","Vuelta a casa","Amigos","Recogida","No es de conexion",201
+"Aeroméxico","LAX","SJC",21,10,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",235
+"Aeromar","SJC","PDX",28,6,2023,"Mujer","Vacaciones/placer","Casa","Recogida","No es de conexion",152
+"VivaAerobus","JFK","LAX",21,6,2023,"Prefiero no decirlo","Trabajo","Casa","Transporte público","Es de conexion",148
+"Aeroméxico","SJC","LAX",14,8,2023,"Mujer","Vacaciones/placer","Amigos","Transporte público","No es de conexion",177
+"Interjet","JFK","LAX",9,7,2023,"Mujer","Trabajo","Casa","Transporte público","No es de conexion",119
+"Aeroméxico","PDX","JFK",16,6,2023,"Prefiero no decirlo","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",185
+"Volaris","GDL","JFK",4,1,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",34
+"Aeromar","PDX","GDL",22,10,2023,"Mujer","Vuelta a casa","Casa","Recogida","Es de conexion",197
+"Interjet","LAX","SJC",2,6,2023,"Mujer","Vacaciones/placer","Amigos","Recogida","Es de conexion",208
+"VivaAerobus","PDX","SJC",11,8,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Taxi del aeropuerto","No es de conexion",67
+"Aeroméxico","GDL","SJC",20,9,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",193
+"Aeromar","GDL","PDX",16,9,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","No es de conexion",223
+"Volaris","PDX","LAX",9,2,2023,"Hombre","Vacaciones/placer","Amigos","Auto propio","No es de conexion",134
+"Aeroméxico","JFK","GDL",21,1,2023,"Mujer","Trabajo","Amigos","Renta de autos","No es de conexion",158
+"Aeromar","PDX","JFK",9,10,2023,"Hombre","Trabajo","Casa","Auto propio","Es de conexion",158
+"Volaris","LAX","PDX",12,12,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","No es de conexion",141
+"VivaAerobus","PDX","JFK",15,5,2023,"Mujer","Vacaciones/placer","Casa","Auto propio","Es de conexion",189
+"VivaAerobus","GDL","LAX",9,5,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Auto propio","Es de conexion",45
+"VivaAerobus","SJC","GDL",6,12,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","Es de conexion",117
+"Interjet","LAX","JFK",19,10,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","No es de conexion",116
+"VivaAerobus","LAX","PDX",29,1,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",178
+"Interjet","PDX","GDL",26,5,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","No es de conexion",111
+"Interjet","GDL","SJC",16,5,2023,"Mujer","Vuelta a casa","Hotel","Recogida","No es de conexion",227
+"Volaris","PDX","SJC",21,3,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","Es de conexion",157
+"Interjet","GDL","LAX",13,8,2023,"Prefiero no decirlo","Trabajo","Casa","Auto propio","No es de conexion",39
+"Aeromar","PDX","GDL",28,8,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","Es de conexion",106
+"Aeroméxico","GDL","LAX",14,2,2023,"Mujer","Vacaciones/placer","Amigos","Auto propio","Es de conexion",115
+"Volaris","GDL","LAX",7,5,2023,"Hombre","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",51
+"VivaAerobus","LAX","GDL",25,8,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",72
+"Interjet","PDX","LAX",22,9,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",196
+"Aeromar","LAX","GDL",9,3,2023,"Hombre","Vuelta a casa","Amigos","Recogida","Es de conexion",117
+"Volaris","SJC","GDL",16,8,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Transporte público","No es de conexion",142
+"VivaAerobus","LAX","PDX",24,4,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","No es de conexion",120
+"Aeromar","LAX","SJC",19,10,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",128
+"Aeromar","SJC","LAX",18,3,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",220
+"Interjet","PDX","SJC",16,8,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","No es de conexion",61
+"Aeroméxico","JFK","PDX",7,11,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Transporte público","Es de conexion",73
+"Aeroméxico","SJC","GDL",18,6,2023,"Hombre","Trabajo","Casa","Recogida","No es de conexion",207
+"Volaris","SJC","JFK",17,7,2023,"Mujer","Trabajo","Casa","Auto propio","No es de conexion",43
+"Interjet","JFK","LAX",15,12,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","Es de conexion",120
+"VivaAerobus","JFK","LAX",26,6,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",196
+"Volaris","LAX","SJC",19,4,2023,"Hombre","Trabajo","Hotel","Auto propio","Es de conexion",171
+"Interjet","SJC","PDX",4,9,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Recogida","No es de conexion",106
+"Aeromar","LAX","SJC",5,1,2023,"Mujer","Vuelta a casa","Amigos","Renta de autos","No es de conexion",223
+"VivaAerobus","PDX","GDL",26,11,2023,"Mujer","Trabajo","Amigos","Transporte público","Es de conexion",226
+"Interjet","GDL","LAX",21,5,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","No es de conexion",154
+"Volaris","JFK","GDL",16,7,2023,"Mujer","Trabajo","Hotel","Auto propio","Es de conexion",92
+"Aeroméxico","LAX","GDL",9,4,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Auto propio","No es de conexion",39
+"Aeroméxico","LAX","JFK",20,10,2023,"Hombre","Trabajo","Hotel","Renta de autos","Es de conexion",181
+"Aeromar","SJC","GDL",19,10,2023,"Hombre","Vacaciones/placer","Amigos","Auto propio","Es de conexion",213
+"Interjet","PDX","LAX",18,5,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","Es de conexion",105
+"VivaAerobus","GDL","LAX",18,7,2023,"Prefiero no decirlo","Trabajo","Amigos","Recogida","Es de conexion",39
+"Aeromar","JFK","SJC",3,10,2023,"Hombre","Trabajo","Hotel","Renta de autos","Es de conexion",142
+"Aeromar","PDX","GDL",17,11,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","No es de conexion",118
+"Aeromar","SJC","PDX",26,12,2023,"Hombre","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",95
+"Volaris","GDL","PDX",25,4,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",238
+"Interjet","PDX","LAX",14,4,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",44
+"Aeromar","LAX","JFK",15,3,2023,"Hombre","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",33
+"Interjet","GDL","JFK",27,11,2023,"Prefiero no decirlo","Trabajo","Amigos","Auto propio","No es de conexion",120
+"Aeroméxico","PDX","LAX",6,10,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Recogida","Es de conexion",116
+"Aeroméxico","JFK","PDX",27,7,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Transporte público","No es de conexion",41
+"Aeromar","LAX","SJC",5,12,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Recogida","Es de conexion",203
+"Volaris","LAX","PDX",7,11,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",169
+"VivaAerobus","SJC","PDX",28,3,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",117
+"VivaAerobus","JFK","LAX",16,4,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",32
+"Aeroméxico","JFK","LAX",7,8,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","Es de conexion",72
+"Interjet","JFK","SJC",23,5,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",151
+"Aeroméxico","GDL","LAX",22,9,2023,"Hombre","Trabajo","Casa","Transporte público","No es de conexion",202
+"Aeroméxico","JFK","PDX",29,1,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","No es de conexion",225
+"Aeroméxico","JFK","SJC",19,5,2023,"Mujer","Trabajo","Hotel","Renta de autos","No es de conexion",108
+"Aeromar","PDX","JFK",16,6,2023,"Hombre","Trabajo","Hotel","Auto propio","Es de conexion",153
+"VivaAerobus","SJC","JFK",8,8,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","No es de conexion",180
+"Volaris","JFK","PDX",20,12,2023,"Mujer","Vacaciones/placer","Amigos","Recogida","Es de conexion",93
+"Interjet","JFK","LAX",17,10,2023,"Mujer","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",172
+"Volaris","LAX","GDL",2,8,2023,"Hombre","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",218
+"Interjet","JFK","GDL",8,1,2023,"Mujer","Vacaciones/placer","Casa","Recogida","Es de conexion",176
+"Volaris","LAX","JFK",27,6,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",58
+"Volaris","PDX","SJC",14,12,2023,"Mujer","Vacaciones/placer","Casa","Recogida","No es de conexion",68
+"Aeroméxico","SJC","LAX",26,6,2023,"Hombre","Vuelta a casa","Hotel","Renta de autos","No es de conexion",222
+"Aeroméxico","PDX","LAX",9,10,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Renta de autos","No es de conexion",136
+"VivaAerobus","GDL","PDX",28,2,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",189
+"Aeroméxico","SJC","GDL",16,4,2023,"Hombre","Vacaciones/placer","Hotel","Auto propio","No es de conexion",179
+"Volaris","PDX","JFK",20,9,2023,"Mujer","Vuelta a casa","Casa","Transporte público","Es de conexion",121
+"Interjet","LAX","GDL",24,8,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","Es de conexion",127
+"Interjet","JFK","LAX",8,4,2023,"Mujer","Vuelta a casa","Hotel","Renta de autos","Es de conexion",155
+"Volaris","SJC","GDL",25,2,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","Es de conexion",132
+"Aeroméxico","JFK","GDL",15,8,2023,"Hombre","Vacaciones/placer","Hotel","Recogida","No es de conexion",125
+"Aeromar","LAX","PDX",15,11,2023,"Hombre","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",166
+"Aeromar","PDX","SJC",22,8,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","Es de conexion",225
+"Aeroméxico","SJC","PDX",25,2,2023,"Hombre","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",51
+"VivaAerobus","SJC","LAX",17,3,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",36
+"Interjet","JFK","LAX",23,6,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",126
+"Interjet","LAX","GDL",22,10,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Auto propio","No es de conexion",178
+"Aeroméxico","LAX","SJC",8,3,2023,"Hombre","Trabajo","Casa","Recogida","No es de conexion",220
+"Interjet","PDX","JFK",29,8,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Renta de autos","Es de conexion",126
+"Aeromar","SJC","LAX",11,3,2023,"Hombre","Trabajo","Casa","Transporte público","Es de conexion",112
+"Interjet","PDX","SJC",3,9,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","No es de conexion",167
+"Aeroméxico","JFK","SJC",29,6,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","Es de conexion",224
+"Volaris","GDL","SJC",13,10,2023,"Prefiero no decirlo","Trabajo","Casa","Recogida","Es de conexion",221
+"Interjet","SJC","PDX",25,8,2023,"Mujer","Vuelta a casa","Hotel","Recogida","No es de conexion",133
+"Aeromar","SJC","GDL",12,9,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",164
+"VivaAerobus","GDL","LAX",23,4,2023,"Prefiero no decirlo","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",83
+"Aeroméxico","LAX","JFK",24,11,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","Es de conexion",168
+"Aeroméxico","GDL","SJC",9,1,2023,"Hombre","Vacaciones/placer","Amigos","Auto propio","No es de conexion",239
+"Aeroméxico","SJC","PDX",20,9,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",162
+"Volaris","PDX","JFK",15,2,2023,"Prefiero no decirlo","Trabajo","Amigos","Recogida","No es de conexion",149
+"Aeroméxico","SJC","GDL",18,12,2023,"Prefiero no decirlo","Trabajo","Hotel","Recogida","No es de conexion",70
+"VivaAerobus","SJC","LAX",10,7,2023,"Mujer","Vacaciones/placer","Hotel","Renta de autos","Es de conexion",77
+"Volaris","SJC","PDX",11,1,2023,"Hombre","Vuelta a casa","Hotel","Recogida","Es de conexion",139
+"VivaAerobus","JFK","LAX",17,7,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","No es de conexion",150
+"Interjet","SJC","LAX",29,4,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",224
+"Aeromar","LAX","JFK",21,7,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",196
+"Aeromar","SJC","JFK",27,1,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",202
+"Aeroméxico","SJC","JFK",11,12,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",190
+"Aeroméxico","JFK","PDX",25,8,2023,"Hombre","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",66
+"Aeromar","GDL","JFK",11,9,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",195
+"VivaAerobus","PDX","SJC",29,8,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",184
+"Volaris","PDX","JFK",15,1,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","No es de conexion",177
+"Aeroméxico","SJC","JFK",26,10,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","No es de conexion",115
+"Interjet","PDX","GDL",22,7,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","Es de conexion",190
+"Aeroméxico","LAX","SJC",8,2,2023,"Hombre","Trabajo","Hotel","Auto propio","Es de conexion",201
+"Aeroméxico","LAX","PDX",9,2,2023,"Mujer","Trabajo","Hotel","Renta de autos","Es de conexion",208
+"VivaAerobus","GDL","LAX",17,5,2023,"Mujer","Vuelta a casa","Amigos","Auto propio","No es de conexion",40
+"VivaAerobus","LAX","JFK",16,10,2023,"Hombre","Vacaciones/placer","Amigos","Auto propio","No es de conexion",57
+"Volaris","GDL","JFK",20,1,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","No es de conexion",106
+"Aeroméxico","GDL","JFK",6,11,2023,"Hombre","Vuelta a casa","Casa","Transporte público","No es de conexion",41
+"Aeroméxico","LAX","GDL",6,5,2023,"Mujer","Vuelta a casa","Hotel","Renta de autos","Es de conexion",194
+"Interjet","GDL","JFK",11,3,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","No es de conexion",238
+"Aeromar","JFK","PDX",4,9,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",210
+"Interjet","GDL","JFK",22,4,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","No es de conexion",208
+"Interjet","SJC","LAX",29,2,2023,"Prefiero no decirlo","Trabajo","Amigos","Renta de autos","Es de conexion",155
+"Volaris","PDX","JFK",5,3,2023,"Hombre","Trabajo","Amigos","Renta de autos","Es de conexion",174
+"Aeromar","JFK","GDL",11,6,2023,"Mujer","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",77
+"Aeroméxico","GDL","LAX",5,8,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","Es de conexion",238
+"VivaAerobus","SJC","JFK",29,4,2023,"Prefiero no decirlo","Trabajo","Hotel","Renta de autos","No es de conexion",193
+"Aeroméxico","GDL","JFK",21,7,2023,"Hombre","Trabajo","Casa","Transporte público","Es de conexion",105
+"Volaris","LAX","SJC",18,7,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","Es de conexion",126
+"VivaAerobus","GDL","JFK",2,5,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",227
+"Aeroméxico","SJC","LAX",1,7,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","Es de conexion",45
+"Interjet","LAX","JFK",23,3,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Auto propio","No es de conexion",196
+"Interjet","LAX","PDX",26,11,2023,"Prefiero no decirlo","Trabajo","Casa","Renta de autos","Es de conexion",62
+"Aeromar","PDX","SJC",5,11,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Auto propio","Es de conexion",171
+"Interjet","GDL","SJC",13,3,2023,"Hombre","Vacaciones/placer","Hotel","Transporte público","No es de conexion",204
+"Aeromar","GDL","PDX",13,4,2023,"Hombre","Vuelta a casa","Hotel","Recogida","No es de conexion",137
+"Volaris","JFK","GDL",13,6,2023,"Hombre","Vacaciones/placer","Amigos","Taxi del aeropuerto","No es de conexion",201
+"VivaAerobus","LAX","GDL",19,5,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","No es de conexion",107
+"Aeroméxico","LAX","SJC",5,10,2023,"Hombre","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",230
+"Volaris","LAX","JFK",4,7,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","No es de conexion",40
+"Volaris","SJC","GDL",9,6,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Auto propio","Es de conexion",47
+"VivaAerobus","GDL","LAX",9,4,2023,"Hombre","Trabajo","Amigos","Renta de autos","Es de conexion",136
+"Volaris","JFK","LAX",27,12,2023,"Mujer","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",190
+"VivaAerobus","PDX","GDL",22,1,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",58
+"VivaAerobus","GDL","SJC",8,5,2023,"Mujer","Vuelta a casa","Casa","Auto propio","No es de conexion",168
+"Aeroméxico","GDL","LAX",18,11,2023,"Hombre","Vacaciones/placer","Casa","Auto propio","No es de conexion",162
+"Interjet","PDX","JFK",13,4,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","Es de conexion",104
+"VivaAerobus","PDX","GDL",16,5,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Recogida","Es de conexion",130
+"Aeromar","PDX","GDL",8,7,2023,"Prefiero no decirlo","Trabajo","Amigos","Auto propio","Es de conexion",103
+"Interjet","LAX","GDL",22,1,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Recogida","No es de conexion",127
+"Interjet","PDX","GDL",15,2,2023,"Mujer","Vacaciones/placer","Casa","Auto propio","Es de conexion",132
+"Interjet","GDL","JFK",22,1,2023,"Hombre","Vuelta a casa","Hotel","Auto propio","Es de conexion",202
+"VivaAerobus","PDX","GDL",10,1,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","Es de conexion",239
+"Volaris","GDL","PDX",9,7,2023,"Hombre","Vuelta a casa","Hotel","Recogida","Es de conexion",238
+"VivaAerobus","JFK","SJC",8,9,2023,"Mujer","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",212
+"Interjet","PDX","JFK",22,8,2023,"Hombre","Trabajo","Casa","Renta de autos","No es de conexion",239
+"VivaAerobus","JFK","SJC",27,6,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",80
+"VivaAerobus","PDX","JFK",12,12,2023,"Hombre","Vuelta a casa","Hotel","Recogida","No es de conexion",110
+"Volaris","JFK","SJC",18,1,2023,"Hombre","Vacaciones/placer","Casa","Recogida","No es de conexion",48
+"Aeromar","SJC","JFK",13,1,2023,"Mujer","Trabajo","Amigos","Recogida","No es de conexion",85
+"Interjet","GDL","JFK",10,9,2023,"Hombre","Vuelta a casa","Hotel","Transporte público","Es de conexion",47
+"Interjet","SJC","GDL",4,5,2023,"Prefiero no decirlo","Trabajo","Casa","Recogida","No es de conexion",112
+"Aeroméxico","LAX","JFK",28,5,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","Es de conexion",144
+"Volaris","SJC","JFK",25,7,2023,"Mujer","Vuelta a casa","Casa","Recogida","No es de conexion",120
+"VivaAerobus","JFK","GDL",20,3,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",148
+"Volaris","PDX","LAX",17,4,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Renta de autos","Es de conexion",87
+"Aeromar","GDL","LAX",29,4,2023,"Mujer","Vuelta a casa","Amigos","Auto propio","No es de conexion",193
+"VivaAerobus","GDL","SJC",15,8,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",84
+"Interjet","PDX","JFK",8,6,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",69
+"Aeromar","LAX","SJC",15,2,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","Es de conexion",99
+"VivaAerobus","LAX","GDL",13,1,2023,"Hombre","Vuelta a casa","Casa","Transporte público","Es de conexion",176
+"Aeromar","PDX","SJC",26,2,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",133
+"Interjet","JFK","GDL",24,11,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Recogida","No es de conexion",59
+"Volaris","SJC","LAX",27,2,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Renta de autos","No es de conexion",50
+"VivaAerobus","JFK","SJC",22,2,2023,"Hombre","Vuelta a casa","Hotel","Auto propio","Es de conexion",63
+"Volaris","LAX","JFK",9,9,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Transporte público","Es de conexion",107
+"Aeroméxico","SJC","LAX",14,1,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","No es de conexion",176
+"Volaris","GDL","SJC",22,4,2023,"Hombre","Vacaciones/placer","Amigos","Transporte público","No es de conexion",152
+"Aeroméxico","SJC","GDL",14,1,2023,"Hombre","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",143
+"Aeromar","SJC","PDX",15,2,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",34
+"Interjet","SJC","JFK",7,8,2023,"Mujer","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",72
+"VivaAerobus","GDL","JFK",10,3,2023,"Prefiero no decirlo","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",149
+"Aeromar","SJC","GDL",11,3,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",71
+"Volaris","GDL","LAX",19,1,2023,"Mujer","Trabajo","Hotel","Recogida","No es de conexion",35
+"Volaris","PDX","LAX",29,2,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","No es de conexion",85
+"Aeromar","SJC","PDX",8,5,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",90
+"Interjet","PDX","JFK",9,11,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Transporte público","No es de conexion",230
+"Aeromar","SJC","JFK",29,4,2023,"Prefiero no decirlo","Trabajo","Amigos","Auto propio","Es de conexion",151
+"Interjet","PDX","SJC",14,5,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Renta de autos","Es de conexion",59
+"Interjet","PDX","GDL",17,5,2023,"Mujer","Vacaciones/placer","Hotel","Auto propio","Es de conexion",102
+"VivaAerobus","PDX","JFK",29,5,2023,"Mujer","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",214
+"VivaAerobus","SJC","LAX",21,8,2023,"Hombre","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",119
+"Aeromar","GDL","PDX",21,1,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Taxi del aeropuerto","Es de conexion",79
+"Interjet","JFK","SJC",18,5,2023,"Hombre","Vuelta a casa","Casa","Recogida","Es de conexion",151
+"Aeromar","SJC","PDX",8,5,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Transporte público","Es de conexion",129
+"Aeroméxico","SJC","JFK",28,4,2023,"Hombre","Trabajo","Casa","Renta de autos","Es de conexion",95
+"VivaAerobus","PDX","GDL",5,4,2023,"Prefiero no decirlo","Trabajo","Hotel","Recogida","Es de conexion",230
+"Volaris","PDX","GDL",24,9,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","No es de conexion",239
+"Volaris","JFK","SJC",26,4,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","Es de conexion",204
+"VivaAerobus","JFK","SJC",21,2,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Recogida","Es de conexion",112
+"Volaris","LAX","SJC",9,2,2023,"Mujer","Vacaciones/placer","Casa","Renta de autos","Es de conexion",162
+"Volaris","PDX","LAX",19,11,2023,"Mujer","Vuelta a casa","Amigos","Recogida","No es de conexion",32
+"VivaAerobus","PDX","JFK",8,9,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",207
+"Aeromar","LAX","SJC",21,5,2023,"Hombre","Vuelta a casa","Casa","Renta de autos","Es de conexion",194
+"VivaAerobus","LAX","GDL",15,2,2023,"Mujer","Vacaciones/placer","Hotel","Recogida","Es de conexion",203
+"Aeromar","GDL","PDX",7,5,2023,"Hombre","Trabajo","Casa","Transporte público","No es de conexion",189
+"Aeromar","LAX","PDX",16,2,2023,"Mujer","Vacaciones/placer","Casa","Recogida","Es de conexion",131
+"Interjet","GDL","SJC",21,8,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",214
+"Aeromar","LAX","SJC",17,7,2023,"Mujer","Trabajo","Casa","Renta de autos","Es de conexion",208
+"Aeroméxico","GDL","LAX",10,12,2023,"Mujer","Trabajo","Casa","Transporte público","Es de conexion",233
+"Interjet","GDL","SJC",2,3,2023,"Hombre","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",34
+"Aeroméxico","LAX","JFK",11,11,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","Es de conexion",193
+"Volaris","LAX","SJC",27,4,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Renta de autos","Es de conexion",193
+"Interjet","LAX","PDX",27,9,2023,"Hombre","Trabajo","Casa","Auto propio","No es de conexion",111
+"Aeromar","JFK","LAX",16,9,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",175
+"Aeromar","JFK","LAX",3,3,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",134
+"Aeroméxico","GDL","JFK",11,5,2023,"Hombre","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",235
+"Aeromar","JFK","SJC",23,11,2023,"Mujer","Vacaciones/placer","Casa","Auto propio","Es de conexion",169
+"Volaris","GDL","PDX",13,12,2023,"Mujer","Vacaciones/placer","Casa","Recogida","Es de conexion",43
+"Aeromar","PDX","GDL",11,8,2023,"Prefiero no decirlo","Trabajo","Hotel","Renta de autos","Es de conexion",173
+"VivaAerobus","SJC","PDX",25,9,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",78
+"Volaris","SJC","GDL",22,2,2023,"Mujer","Trabajo","Amigos","Transporte público","Es de conexion",124
+"Aeroméxico","SJC","PDX",20,9,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Transporte público","Es de conexion",111
+"Aeromar","SJC","GDL",3,5,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",49
+"Interjet","GDL","SJC",8,2,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","No es de conexion",152
+"Interjet","JFK","LAX",3,9,2023,"Prefiero no decirlo","Trabajo","Amigos","Renta de autos","No es de conexion",62
+"Aeroméxico","GDL","LAX",12,12,2023,"Mujer","Vuelta a casa","Hotel","Transporte público","Es de conexion",89
+"Aeroméxico","GDL","PDX",9,3,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","No es de conexion",161
+"VivaAerobus","JFK","LAX",15,10,2023,"Prefiero no decirlo","Trabajo","Casa","Transporte público","Es de conexion",72
+"Aeroméxico","PDX","LAX",11,4,2023,"Hombre","Vuelta a casa","Amigos","Recogida","No es de conexion",192
+"Volaris","GDL","JFK",11,3,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Transporte público","No es de conexion",128
+"Aeroméxico","SJC","LAX",5,10,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","No es de conexion",158
+"VivaAerobus","LAX","PDX",6,12,2023,"Mujer","Vuelta a casa","Amigos","Transporte público","Es de conexion",176
+"Interjet","JFK","LAX",20,2,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",204
+"VivaAerobus","SJC","PDX",23,8,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Recogida","Es de conexion",64
+"Aeroméxico","SJC","LAX",26,2,2023,"Mujer","Vacaciones/placer","Amigos","Auto propio","No es de conexion",160
+"VivaAerobus","PDX","GDL",20,7,2023,"Mujer","Trabajo","Amigos","Taxi del aeropuerto","Es de conexion",66
+"Aeromar","PDX","LAX",9,1,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","No es de conexion",72
+"Interjet","SJC","JFK",19,7,2023,"Hombre","Vuelta a casa","Amigos","Recogida","No es de conexion",200
+"VivaAerobus","LAX","GDL",5,7,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",128
+"Volaris","GDL","JFK",21,1,2023,"Hombre","Vacaciones/placer","Amigos","Transporte público","No es de conexion",193
+"Volaris","SJC","PDX",18,3,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","Es de conexion",205
+"Interjet","GDL","JFK",25,7,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",153
+"Interjet","PDX","SJC",15,8,2023,"Mujer","Trabajo","Casa","Recogida","Es de conexion",158
+"Interjet","LAX","PDX",16,11,2023,"Hombre","Vuelta a casa","Hotel","Recogida","No es de conexion",76
+"Aeroméxico","JFK","LAX",12,4,2023,"Prefiero no decirlo","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",75
+"Volaris","LAX","GDL",23,5,2023,"Prefiero no decirlo","Trabajo","Amigos","Transporte público","Es de conexion",103
+"Volaris","JFK","SJC",27,5,2023,"Mujer","Vuelta a casa","Amigos","Recogida","No es de conexion",61
+"Aeromar","LAX","PDX",1,9,2023,"Mujer","Trabajo","Amigos","Auto propio","No es de conexion",83
+"Volaris","GDL","LAX",14,2,2023,"Mujer","Trabajo","Hotel","Transporte público","Es de conexion",186
+"Volaris","LAX","GDL",6,8,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",178
+"Aeroméxico","SJC","LAX",27,5,2023,"Mujer","Trabajo","Hotel","Recogida","No es de conexion",137
+"Aeroméxico","JFK","SJC",28,7,2023,"Mujer","Trabajo","Casa","Auto propio","Es de conexion",215
+"Aeroméxico","LAX","GDL",2,8,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","Es de conexion",237
+"VivaAerobus","PDX","SJC",20,4,2023,"Mujer","Trabajo","Casa","Recogida","No es de conexion",224
+"VivaAerobus","GDL","LAX",26,9,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","No es de conexion",67
+"Aeroméxico","PDX","JFK",29,7,2023,"Hombre","Vacaciones/placer","Casa","Transporte público","No es de conexion",214
+"Volaris","GDL","SJC",5,9,2023,"Hombre","Trabajo","Hotel","Auto propio","Es de conexion",204
+"Aeroméxico","LAX","GDL",24,10,2023,"Hombre","Vuelta a casa","Hotel","Recogida","Es de conexion",146
+"Aeroméxico","SJC","JFK",27,11,2023,"Mujer","Trabajo","Amigos","Transporte público","Es de conexion",138
+"Volaris","LAX","SJC",6,6,2023,"Mujer","Trabajo","Amigos","Recogida","No es de conexion",98
+"Aeroméxico","JFK","SJC",6,2,2023,"Mujer","Trabajo","Hotel","Auto propio","No es de conexion",45
+"Aeroméxico","SJC","PDX",5,12,2023,"Mujer","Trabajo","Hotel","Renta de autos","No es de conexion",187
+"Aeromar","SJC","JFK",14,9,2023,"Hombre","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",193
+"Interjet","JFK","SJC",14,3,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",175
+"Interjet","JFK","SJC",15,7,2023,"Hombre","Vuelta a casa","Casa","Auto propio","Es de conexion",162
+"Volaris","GDL","PDX",10,11,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Renta de autos","Es de conexion",159
+"Aeromar","SJC","GDL",15,6,2023,"Hombre","Vacaciones/placer","Amigos","Auto propio","No es de conexion",112
+"VivaAerobus","JFK","LAX",13,8,2023,"Hombre","Vacaciones/placer","Casa","Auto propio","Es de conexion",131
+"VivaAerobus","SJC","LAX",16,10,2023,"Mujer","Vuelta a casa","Casa","Recogida","No es de conexion",51
+"Interjet","SJC","GDL",15,3,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Transporte público","Es de conexion",49
+"Aeroméxico","JFK","PDX",13,3,2023,"Mujer","Vacaciones/placer","Casa","Transporte público","Es de conexion",84
+"Volaris","JFK","PDX",21,12,2023,"Mujer","Trabajo","Hotel","Renta de autos","No es de conexion",66
+"VivaAerobus","GDL","JFK",20,5,2023,"Prefiero no decirlo","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",155
+"Aeromar","SJC","LAX",6,7,2023,"Hombre","Vacaciones/placer","Hotel","Auto propio","Es de conexion",203
+"Volaris","JFK","SJC",11,10,2023,"Prefiero no decirlo","Trabajo","Amigos","Recogida","No es de conexion",119
+"Volaris","LAX","PDX",10,10,2023,"Prefiero no decirlo","Trabajo","Hotel","Renta de autos","Es de conexion",196
+"Interjet","SJC","GDL",18,2,2023,"Hombre","Vacaciones/placer","Hotel","Recogida","Es de conexion",203
+"Aeroméxico","PDX","JFK",29,6,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Transporte público","Es de conexion",174
+"Interjet","GDL","SJC",22,8,2023,"Mujer","Vuelta a casa","Amigos","Renta de autos","No es de conexion",183
+"Volaris","SJC","JFK",3,4,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Auto propio","No es de conexion",95
+"Aeromar","JFK","SJC",2,2,2023,"Prefiero no decirlo","Vuelta a casa","Hotel","Auto propio","Es de conexion",78
+"Aeromar","SJC","GDL",6,7,2023,"Hombre","Vacaciones/placer","Casa","Recogida","No es de conexion",31
+"Volaris","GDL","LAX",28,2,2023,"Hombre","Trabajo","Amigos","Renta de autos","No es de conexion",180
+"Interjet","JFK","GDL",17,9,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",192
+"Volaris","JFK","SJC",19,11,2023,"Mujer","Vacaciones/placer","Hotel","Transporte público","Es de conexion",183
+"VivaAerobus","SJC","LAX",29,12,2023,"Hombre","Trabajo","Hotel","Recogida","No es de conexion",113
+"Aeromar","SJC","GDL",14,6,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Recogida","No es de conexion",139
+"Aeroméxico","SJC","LAX",5,4,2023,"Hombre","Trabajo","Amigos","Recogida","No es de conexion",193
+"VivaAerobus","SJC","PDX",22,10,2023,"Mujer","Vacaciones/placer","Amigos","Renta de autos","Es de conexion",46
+"Volaris","SJC","LAX",28,7,2023,"Mujer","Trabajo","Amigos","Auto propio","Es de conexion",169
+"Aeromar","PDX","JFK",26,7,2023,"Hombre","Vuelta a casa","Casa","Recogida","Es de conexion",238
+"Aeromar","PDX","JFK",18,10,2023,"Mujer","Vuelta a casa","Casa","Auto propio","No es de conexion",76
+"Volaris","JFK","GDL",22,6,2023,"Hombre","Vacaciones/placer","Hotel","Renta de autos","No es de conexion",148
+"Interjet","GDL","PDX",5,8,2023,"Mujer","Vuelta a casa","Amigos","Auto propio","No es de conexion",151
+"Volaris","JFK","LAX",14,3,2023,"Mujer","Vacaciones/placer","Hotel","Taxi del aeropuerto","No es de conexion",187
+"Aeromar","SJC","PDX",27,12,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",144
+"Volaris","SJC","PDX",14,12,2023,"Hombre","Vuelta a casa","Amigos","Transporte público","Es de conexion",96
+"Aeroméxico","SJC","GDL",24,4,2023,"Mujer","Trabajo","Casa","Recogida","Es de conexion",51
+"Volaris","GDL","SJC",11,3,2023,"Hombre","Vacaciones/placer","Casa","Recogida","No es de conexion",215
+"Volaris","SJC","JFK",12,2,2023,"Mujer","Vacaciones/placer","Amigos","Auto propio","No es de conexion",170
+"Volaris","GDL","SJC",14,8,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","Es de conexion",152
+"Volaris","PDX","JFK",22,6,2023,"Prefiero no decirlo","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",157
+"Volaris","PDX","SJC",10,4,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Recogida","Es de conexion",202
+"Interjet","PDX","GDL",9,5,2023,"Mujer","Vacaciones/placer","Casa","Recogida","No es de conexion",125
+"Aeroméxico","JFK","PDX",8,10,2023,"Hombre","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",134
+"Volaris","SJC","LAX",6,11,2023,"Mujer","Vuelta a casa","Hotel","Renta de autos","No es de conexion",46
+"VivaAerobus","SJC","GDL",17,1,2023,"Mujer","Trabajo","Casa","Taxi del aeropuerto","Es de conexion",160
+"VivaAerobus","SJC","JFK",8,6,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",112
+"Aeroméxico","GDL","JFK",25,2,2023,"Hombre","Trabajo","Amigos","Recogida","Es de conexion",147
+"Aeromar","SJC","JFK",2,2,2023,"Prefiero no decirlo","Trabajo","Hotel","Recogida","No es de conexion",121
+"Volaris","JFK","LAX",29,8,2023,"Mujer","Vuelta a casa","Amigos","Taxi del aeropuerto","No es de conexion",151
+"Volaris","LAX","GDL",1,12,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","No es de conexion",80
+"Volaris","PDX","GDL",17,6,2023,"Hombre","Trabajo","Casa","Transporte público","No es de conexion",209
+"Volaris","LAX","SJC",3,2,2023,"Hombre","Vacaciones/placer","Casa","Renta de autos","Es de conexion",146
+"Aeromar","SJC","GDL",27,9,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Auto propio","Es de conexion",76
+"Aeromar","GDL","LAX",19,6,2023,"Hombre","Vacaciones/placer","Amigos","Recogida","Es de conexion",232
+"VivaAerobus","LAX","GDL",14,5,2023,"Mujer","Trabajo","Hotel","Recogida","No es de conexion",140
+"Aeroméxico","GDL","PDX",17,3,2023,"Mujer","Vacaciones/placer","Casa","Recogida","No es de conexion",39
+"Interjet","JFK","SJC",22,1,2023,"Prefiero no decirlo","Trabajo","Hotel","Recogida","Es de conexion",144
+"Volaris","LAX","GDL",10,6,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",51
+"VivaAerobus","GDL","SJC",23,12,2023,"Mujer","Vuelta a casa","Casa","Recogida","Es de conexion",69
+"Aeroméxico","SJC","PDX",5,9,2023,"Prefiero no decirlo","Trabajo","Casa","Transporte público","No es de conexion",116
+"VivaAerobus","LAX","JFK",21,4,2023,"Mujer","Vuelta a casa","Hotel","Taxi del aeropuerto","No es de conexion",184
+"Aeroméxico","PDX","GDL",25,1,2023,"Hombre","Trabajo","Casa","Renta de autos","Es de conexion",170
+"Interjet","JFK","LAX",13,9,2023,"Hombre","Vuelta a casa","Amigos","Transporte público","Es de conexion",192
+"Aeromar","SJC","LAX",18,2,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","Es de conexion",140
+"Volaris","PDX","GDL",26,9,2023,"Hombre","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",223
+"VivaAerobus","JFK","LAX",18,9,2023,"Hombre","Vuelta a casa","Hotel","Transporte público","Es de conexion",155
+"Aeromar","GDL","LAX",10,12,2023,"Mujer","Trabajo","Hotel","Taxi del aeropuerto","Es de conexion",83
+"Interjet","LAX","GDL",22,9,2023,"Hombre","Vuelta a casa","Hotel","Renta de autos","No es de conexion",129
+"Aeroméxico","JFK","LAX",28,3,2023,"Prefiero no decirlo","Trabajo","Casa","Auto propio","No es de conexion",33
+"Interjet","GDL","LAX",4,3,2023,"Mujer","Trabajo","Amigos","Renta de autos","No es de conexion",207
+"Interjet","LAX","JFK",22,12,2023,"Mujer","Vacaciones/placer","Amigos","Taxi del aeropuerto","No es de conexion",36
+"Aeroméxico","SJC","JFK",3,7,2023,"Prefiero no decirlo","Vuelta a casa","Casa","Auto propio","Es de conexion",68
+"Volaris","SJC","PDX",13,5,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",162
+"Volaris","LAX","SJC",2,9,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",97
+"Volaris","JFK","PDX",11,10,2023,"Mujer","Vuelta a casa","Amigos","Taxi del aeropuerto","Es de conexion",150
+"Interjet","SJC","LAX",19,3,2023,"Mujer","Vacaciones/placer","Amigos","Recogida","No es de conexion",71
+"Interjet","GDL","SJC",10,2,2023,"Hombre","Vacaciones/placer","Hotel","Transporte público","No es de conexion",43
+"Aeroméxico","JFK","SJC",6,7,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",161
+"Aeromar","SJC","GDL",25,2,2023,"Mujer","Vuelta a casa","Hotel","Recogida","No es de conexion",224
+"Aeromar","JFK","LAX",9,2,2023,"Mujer","Vuelta a casa","Hotel","Recogida","Es de conexion",105
+"Interjet","GDL","SJC",12,3,2023,"Mujer","Vacaciones/placer","Hotel","Auto propio","Es de conexion",191
+"VivaAerobus","SJC","LAX",10,2,2023,"Mujer","Vuelta a casa","Casa","Recogida","Es de conexion",195
+"VivaAerobus","JFK","PDX",4,8,2023,"Mujer","Trabajo","Hotel","Renta de autos","No es de conexion",203
+"Aeromar","LAX","JFK",11,4,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Recogida","No es de conexion",176
+"Interjet","JFK","SJC",21,1,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Transporte público","No es de conexion",143
+"Aeromar","SJC","JFK",29,2,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","No es de conexion",229
+"Aeromar","JFK","GDL",13,12,2023,"Mujer","Vuelta a casa","Casa","Transporte público","Es de conexion",237
+"Aeromar","JFK","LAX",19,4,2023,"Mujer","Vuelta a casa","Hotel","Auto propio","Es de conexion",95
+"Aeroméxico","SJC","LAX",21,5,2023,"Hombre","Trabajo","Hotel","Transporte público","No es de conexion",206
+"Aeroméxico","LAX","SJC",12,6,2023,"Prefiero no decirlo","Trabajo","Hotel","Transporte público","No es de conexion",162
+"Interjet","PDX","LAX",26,12,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",235
+"Interjet","PDX","LAX",5,9,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","No es de conexion",139
+"Interjet","JFK","SJC",29,3,2023,"Mujer","Vuelta a casa","Amigos","Auto propio","No es de conexion",180
+"Aeromar","GDL","PDX",22,12,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","No es de conexion",169
+"Aeroméxico","SJC","JFK",9,10,2023,"Prefiero no decirlo","Trabajo","Hotel","Taxi del aeropuerto","No es de conexion",67
+"Volaris","PDX","GDL",9,9,2023,"Mujer","Vacaciones/placer","Amigos","Recogida","Es de conexion",109
+"Aeroméxico","JFK","GDL",7,4,2023,"Hombre","Trabajo","Amigos","Renta de autos","No es de conexion",230
+"Volaris","SJC","GDL",14,7,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Auto propio","No es de conexion",188
+"Aeroméxico","GDL","PDX",15,6,2023,"Hombre","Vuelta a casa","Casa","Transporte público","Es de conexion",49
+"VivaAerobus","LAX","SJC",10,5,2023,"Hombre","Vacaciones/placer","Casa","Recogida","Es de conexion",188
+"Aeromar","SJC","GDL",11,12,2023,"Hombre","Trabajo","Casa","Transporte público","Es de conexion",164
+"Volaris","GDL","SJC",14,9,2023,"Mujer","Vacaciones/placer","Casa","Taxi del aeropuerto","Es de conexion",188
+"Aeroméxico","JFK","GDL",21,4,2023,"Hombre","Vacaciones/placer","Hotel","Transporte público","No es de conexion",32
+"Volaris","LAX","JFK",2,4,2023,"Hombre","Trabajo","Casa","Taxi del aeropuerto","No es de conexion",63
+"Volaris","SJC","GDL",27,4,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Auto propio","No es de conexion",220
+"Volaris","PDX","GDL",19,4,2023,"Mujer","Vacaciones/placer","Hotel","Renta de autos","Es de conexion",89
+"Interjet","PDX","JFK",13,5,2023,"Mujer","Vacaciones/placer","Casa","Auto propio","No es de conexion",124
+"VivaAerobus","PDX","SJC",10,11,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","Es de conexion",139
+"VivaAerobus","SJC","PDX",7,2,2023,"Mujer","Trabajo","Casa","Renta de autos","No es de conexion",226
+"Volaris","JFK","SJC",8,8,2023,"Mujer","Vuelta a casa","Casa","Recogida","Es de conexion",220
+"Aeroméxico","GDL","PDX",11,8,2023,"Hombre","Trabajo","Amigos","Taxi del aeropuerto","No es de conexion",226
+"Aeromar","LAX","PDX",14,2,2023,"Hombre","Vuelta a casa","Hotel","Transporte público","No es de conexion",232
+"Aeromar","LAX","GDL",9,1,2023,"Mujer","Vuelta a casa","Casa","Auto propio","Es de conexion",159
+"Interjet","LAX","JFK",18,11,2023,"Mujer","Vacaciones/placer","Amigos","Recogida","No es de conexion",60
+"Aeromar","LAX","GDL",18,5,2023,"Prefiero no decirlo","Vacaciones/placer","Amigos","Recogida","Es de conexion",57
+"Volaris","JFK","LAX",16,12,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Transporte público","No es de conexion",40
+"Interjet","JFK","GDL",18,6,2023,"Mujer","Trabajo","Amigos","Recogida","Es de conexion",63
+"VivaAerobus","JFK","GDL",21,7,2023,"Hombre","Vacaciones/placer","Casa","Auto propio","No es de conexion",216
+"Aeromar","JFK","SJC",27,1,2023,"Mujer","Trabajo","Hotel","Transporte público","No es de conexion",97
+"Interjet","LAX","PDX",26,11,2023,"Prefiero no decirlo","Trabajo","Hotel","Auto propio","Es de conexion",216
+"Aeromar","PDX","JFK",14,12,2023,"Hombre","Trabajo","Amigos","Recogida","No es de conexion",174
+"Volaris","SJC","LAX",15,8,2023,"Hombre","Vuelta a casa","Amigos","Transporte público","Es de conexion",58
+"Aeromar","SJC","GDL",24,9,2023,"Mujer","Vacaciones/placer","Amigos","Transporte público","No es de conexion",208
+"Volaris","SJC","LAX",27,10,2023,"Hombre","Trabajo","Hotel","Recogida","No es de conexion",150
+"Volaris","PDX","LAX",15,4,2023,"Mujer","Vacaciones/placer","Amigos","Auto propio","No es de conexion",150
+"Aeromar","PDX","SJC",1,3,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",182
+"Interjet","JFK","PDX",5,1,2023,"Prefiero no decirlo","Vacaciones/placer","Hotel","Transporte público","Es de conexion",158
+"Interjet","SJC","GDL",4,9,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Recogida","Es de conexion",143
+"Aeromar","PDX","GDL",10,2,2023,"Mujer","Vuelta a casa","Casa","Taxi del aeropuerto","Es de conexion",64
+"Aeroméxico","LAX","SJC",27,9,2023,"Prefiero no decirlo","Vuelta a casa","Amigos","Renta de autos","No es de conexion",144
+"Aeromar","LAX","GDL",17,1,2023,"Hombre","Vacaciones/placer","Casa","Recogida","Es de conexion",161
+"Interjet","SJC","JFK",5,7,2023,"Mujer","Vuelta a casa","Casa","Auto propio","No es de conexion",129
+"VivaAerobus","JFK","SJC",8,3,2023,"Hombre","Vuelta a casa","Amigos","Renta de autos","No es de conexion",108
+"Aeromar","LAX","PDX",6,3,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Renta de autos","Es de conexion",47
+"Volaris","PDX","JFK",1,5,2023,"Prefiero no decirlo","Vacaciones/placer","Casa","Transporte público","Es de conexion",184
+"Aeromar","LAX","PDX",11,2,2023,"Hombre","Vacaciones/placer","Hotel","Taxi del aeropuerto","Es de conexion",180
