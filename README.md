@@ -1,8 +1,8 @@
 # Airport-with-NoSQL
-2 models of 2 NoSQL engines (Cassandra and MongoDB) that tells to a marketing company wich are the best airports to open a restaurant and when they have to do it..
-### PARA CASSANDRA
+2 models of 2 NoSQL engines (Cassandra and MongoDB) that tell a marketing company whose are the best airports to open a restaurant and when they have to do it.
+  ### FOR CASSANDRA
 
-### Setup a python virtual env with python cassandra installed
+### Setup a python virtual environment with python cassandra installed
 ```
 # If pip is not present in you system
 sudo apt update
@@ -27,7 +27,7 @@ docker start node01
 
 ```
 
-### If it's your first time running the project, you will need to run the app.py file and then exit in order to create the tables.
+### If it's your first time running the project, you will need to run the app.py file and then exit to create the tables.
 ```
 python3 app.py
 
